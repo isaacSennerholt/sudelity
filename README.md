@@ -17,6 +17,7 @@ Derived from the Byzantine Greek word "σοῦδα" (suda), meaning "ditch" or "
 * **Sudelist (noun):** A person who practices or advocates for Sudel.
 * **Sudelity (noun):** The state or quality of being Sudel; the practice of maintaining balance and mutual respect in shared contexts.
 * **Sudelistic (adjective):** Relating to or characteristic of Sudel.
+* **Sudelism (noun):** The philosophical system based on Sudel, focusing on dynamic social navigation and balance.
 
 ### Example Sentences
 
