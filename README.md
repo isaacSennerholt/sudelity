@@ -216,15 +216,6 @@ Sudelity provides an ethical framework for balancing individual needs and the ne
 3. **Promoting Moral Development**
 Practicing Sudelity can contribute to moral development by encouraging individuals to consider the perspectives of others and act in a way that is ethically responsible.
 
-#### Environmental Psychology
-
-1. **Creating Supportive Environments**
-The physical environment can significantly influence social interactions and the practice of Sudelity. By designing spaces that promote communication, collaboration, and respect for individual needs, we can create environments that support Sudelistic behaviors.
-2. **Minimizing Environmental Stressors**
-Environmental stressors, such as noise, crowding, and lack of privacy, can hinder the practice of Sudelity. By minimizing these stressors, we can create environments that are more conducive to positive social interaction and cooperation.
-3. **Promoting Biophilia**
-Incorporating elements of nature into the built environment (biophilic design) can have positive effects on mood, stress levels, and social interaction, further supporting the practice of Sudelity.
-
 ### Consequences of Lacking Sudelity: A Multi-Disciplinary Exploration
 
 When Sudelity is absent—when individuals fail to skillfully balance their needs with the familiarities and expectations of others—the consequences can be significant and far-reaching, impacting individuals, relationships, organizations, and society.
@@ -301,15 +292,6 @@ A widespread lack of Sudel can contribute to the erosion of moral values within 
 3. **Ethical Dilemmas and Conflicts**
 A lack of Sudel can create ethical dilemmas and conflicts, particularly in situations where individual needs clash with the needs of the collective.
 
-#### Environmental Psychology
-
-1. **Increased Environmental Stress**
-Environments that do not support Sudelistic behaviors, such as crowded or noisy spaces, can increase environmental stress. This can further exacerbate the negative consequences of a lack of Sudel.
-2. **Negative Impact on Social Interactions**
-The physical environment can either facilitate or hinder positive social interactions. Environments that lack privacy, promote crowding, or are poorly designed for communication can make it more difficult to practice Sudel.
-3. **Disconnection from Nature**
-A lack of connection with nature can also have negative effects on social interaction and the practice of Sudel. Studies have shown that spending time in nature can increase empathy and prosocial behavior.
-
 ### How to Practice Sudelity: A Practical Guide
 
 1. **Cultivating Contextual Awareness**
@@ -355,6 +337,27 @@ A lack of connection with nature can also have negative effects on social intera
    * Difficult Personalities: ...
    * High-Stakes Situations: ...
    * Cultural Nuances: ...
+  
+## Sudelism
+
+### Sudelism as a Practical Ethical System
+
+#### The Sudelist Ethical Compass
+
+Instead of asking “Is this action right or wrong?” (as in deontological ethics) or “Does this action maximize happiness?” (as in utilitarianism), Sudelism asks:
+
+“Does this action maintain a balance between individual comfort and collective ease?”
+
+#### The Four Sudelist Modes of Behavior
+
+| Mode | Definition | Example |
+| :-------- | :------- | :------- |
+| Sudelization | The act of skillfully adapting to a social context while preserving autonomy. | Adjusting your communication style in a new workplace without losing authenticity.
+| Over-Sudelization | Over-adjusting to the point of losing self-identity. | Suppressing your true opinions just to fit in.
+| Anti-Sudelization | Rejecting adaptation entirely, leading to friction. | Ignoring cultural norms when traveling, creating unnecessary conflict.
+| Strategic Sudelization | Consciously choosing when to adapt and when to assert personal space. | Blending into a formal setting but maintaining your core values.
+
+This framework helps individuals navigate interactions without rigid moral dictates.
 
 ### Related Disciplinary Fields
 * Neuroscience
@@ -365,4 +368,3 @@ A lack of connection with nature can also have negative effects on social intera
 * Education
 * Organizational Behavior
 * Philosophy (Ethics)
-* Environmental Psychology
