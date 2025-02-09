@@ -1,4 +1,9 @@
-**Working paper**
+## Working paper
+
+A living draft, intended to evolve over time as new insights emerge.
+Remains in an early and exploratory phase, contributions are of course welcome.
+
+<code>Author: Isaac Sennerholt</code>
 
 ## Sudel /ˈsuːdəl/
 
@@ -338,17 +343,48 @@ A lack of Sudel can create ethical dilemmas and conflicts, particularly in situa
    * High-Stakes Situations: ...
    * Cultural Nuances: ...
   
-## Sudelism
+## The Sudelist Manifesto
+  
+### 1. Introduction: The Need for a New Ethical Paradigm
 
-### Sudelism as a Practical Ethical System
+Human existence is defined by interaction—between individuals, groups, and the environments we inhabit. Every action we take alters the shared spaces we move through, whether subtly or profoundly. Yet, many ethical frameworks fail to account for the fluid and dynamic nature of human coexistence.
 
-#### The Sudelist Ethical Compass
+Rigid moral codes often overlook context, demanding adherence to fixed principles even when circumstances demand adaptation. At the same time, unchecked individualism risks destabilizing the very structures that allow for meaningful social interaction. Neither extreme provides a sustainable path forward.
 
-Instead of asking “Is this action right or wrong?” (as in deontological ethics) or “Does this action maximize happiness?” (as in utilitarianism), Sudelism asks:
+Sudelism offers an alternative: a situational, adaptive philosophy of ethical balance. It is not a prescriptive set of rules but a framework for navigating complexity with precision and awareness. It does not ask, “What is the absolute right thing to do?” but rather:
 
-“Does this action maintain a balance between individual comfort and collective ease?”
+How do we act in a way that respects the integrity of existing systems while allowing for necessary change?
+How do we integrate ourselves into an environment without erasing its stability or forfeiting our own agency?
+How do we engage with others in ways that minimize unnecessary friction while maintaining the possibility of growth?
 
-#### The Four Sudelist Modes of Behavior
+### 2. The Core Tenets of Sudelism
+
+1. **Ethical Equilibrium**
+
+Ethics is not static; it is a function of balance. A morally sound action is not necessarily the one that adheres to a rigid principle but the one that preserves coherence while allowing for adaptation. Sudelism does not reject change but insists that it be intentional, proportional, and contextually aware.
+
+2. **Situational Awareness Over Absolutism**
+
+No action is intrinsically right or wrong outside of its contextual impact. What stabilizes one system may destabilize another. However, it is ethically indefensible to deliberately render others’ environments less familiar as a means of establishing familiarity for oneself, unless doing so results in less chaotic emergence.
+
+Chaotic emergence is defined as a causal anisotropy pattern of environmental changes affecting N individuals, where each person is affected N times. When disruption propagates unpredictably, amplifying instability across multiple agents, it ceases to be an adaptive adjustment and becomes a self-perpetuating disorder. Sudelism demands that change be intentional, proportionate, and ethically warranted— not an imposition of one’s own need for stability at the expense of collective coherence.
+
+3. **Mutual Adaptation**
+
+Every individual shapes their environment, but they are also shaped by it in return. True autonomy is not the imposition of the self onto all contexts but the ability to navigate different environments fluidly without unnecessary conflict. Sudelism values integration without erasure, adaptation without submission.
+
+4. **Calculated Disruption**
+
+Not all stability is good, nor is all disruption necessary. Some systems should be preserved; others must be restructured. The Sudelist approach to disruption is one of precision, not recklessness— it seeks to alter environments only when the benefits outweigh the chaos introduced. Before we disrupt, we first seek to understand.
+
+### 3. Sudelist Ethics: A Functional Morality for Coexistence
+
+Sudelism’s ethical system is not based on absolute moral laws, but on principles of dynamic equilibrium— helping individuals and societies navigate complex social spaces with minimal disruption while preserving autonomy.
+
+1. **The Sudelist Ethical Compass**
+Instead of asking “Is this action right or wrong?” (as in deontological ethics) or “Does this action maximize happiness?” (as in utilitarianism), Sudelism asks: “Does this action maintain a balance between individual comfort and collective ease?”
+
+2. **The Four Sudelist Modes of Behavior**
 
 | Mode | Definition | Example |
 | :-------- | :------- | :------- |
@@ -358,6 +394,24 @@ Instead of asking “Is this action right or wrong?” (as in deontological ethi
 | Strategic Sudelization | Consciously choosing when to adapt and when to assert personal space. | Blending into a formal setting but maintaining your core values.
 
 This framework helps individuals navigate interactions without rigid moral dictates.
+
+### 4. Sudelist Commitments: A Practical Ethic
+
+A Sudelist does not adhere to a fixed doctrine but to a method of thinking and acting, grounded in:
+
+✅ Environmental Awareness – Recognizing the existing structures of a space before attempting to reshape them.
+
+✅ Proportionality in Action – Adjusting behavior to align with context while preserving one’s core identity.
+
+✅ Ethical Integration – Engaging with others in ways that minimize friction without resorting to passivity.
+
+✅ Purposeful Change – Ensuring that disruption is deliberate, justified, and strategically executed.
+
+### 5. A Living Philosophy
+
+Sudelism is not a static ideology; it is an evolving approach to ethical navigation. It is applicable wherever human interaction occurs— in relationships, institutions, intellectual discourse, and societal structures. Its strength lies in its adaptability, its refusal to be constrained by dogma, and its insistence on ethical precision.
+
+To practice Sudelism is to refine one’s ability to act with clarity, with purpose, and with an understanding of the larger systems at play. It is a method for those who seek to engage with the world not as passive participants nor as reckless disruptors, but as deliberate agents of balance and transformation.
 
 ### Related Disciplinary Fields
 * Neuroscience
