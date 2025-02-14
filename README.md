@@ -1,9 +1,9 @@
 ## Working paper
 
 A living draft, intended to evolve over time as new insights emerge.
-Remains in an early and exploratory phase, contributions are of course welcome.
+Remains in an early and exploratory phase, contributions are welcome.
 
-<code>Author: Isaac Sennerholt</code>
+<code>Main contributors: Isaac Sennerholt</code>
 
 ## Sudel /ˈsuːdəl/
 
