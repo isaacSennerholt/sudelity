@@ -345,7 +345,7 @@ A lack of Sudel can create ethical dilemmas and conflicts, particularly in situa
   
 ## The Sudelist Manifesto
   
-### 1. Introduction: The Need for a New Ethical Paradigm
+### 1. The Need for a New Ethical Paradigm
 
 Human existence is defined by interaction—between individuals, groups, and the environments we inhabit. Every action we take alters the shared spaces we move through, whether subtly or profoundly. Yet, many ethical frameworks fail to account for the fluid and dynamic nature of human coexistence.
 
