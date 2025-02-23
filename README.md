@@ -359,21 +359,21 @@ How do we engage with others in ways that minimize unnecessary friction while ma
 
 ### 2. The Core Tenets of Sudelism
 
-1. **Ethical Equilibrium**
+2.1. **Ethical Equilibrium**
 
 Ethics is not static; it is a function of balance. A morally sound action is not necessarily the one that adheres to a rigid principle but the one that preserves coherence while allowing for adaptation. Sudelism does not reject change but insists that it be intentional, proportional, and contextually aware.
 
-2. **Situational Awareness Over Absolutism**
+2.2. **Situational Awareness Over Absolutism**
 
 No action is intrinsically right or wrong outside of its contextual impact. What stabilizes one system may destabilize another. However, it is ethically indefensible to deliberately render others’ environments less familiar as a means of establishing familiarity for oneself, unless doing so results in less chaotic emergence.
 
 Chaotic emergence is defined as a causal anisotropy pattern of environmental changes affecting N individuals, where each person is affected N times. When disruption propagates unpredictably, amplifying instability across multiple agents, it ceases to be an adaptive adjustment and becomes a self-perpetuating disorder. Sudelism demands that change be intentional, proportionate, and ethically warranted— not an imposition of one’s own need for stability at the expense of collective coherence.
 
-3. **Mutual Adaptation**
+2.3. **Mutual Adaptation**
 
 Every individual shapes their environment, but they are also shaped by it in return. True autonomy is not the imposition of the self onto all contexts but the ability to navigate different environments fluidly without unnecessary conflict. Sudelism values integration without erasure, adaptation without submission.
 
-4. **Calculated Disruption**
+2.4. **Calculated Disruption**
 
 Not all stability is good, nor is all disruption necessary. Some systems should be preserved; others must be restructured. The Sudelist approach to disruption is one of precision, not recklessness— it seeks to alter environments only when the benefits outweigh the chaos introduced. Before we disrupt, we first seek to understand.
 
@@ -381,10 +381,10 @@ Not all stability is good, nor is all disruption necessary. Some systems should 
 
 Sudelism’s ethical system is not based on absolute moral laws, but on principles of dynamic equilibrium— helping individuals and societies navigate complex social spaces with minimal disruption while preserving autonomy.
 
-1. **The Sudelist Ethical Compass**
+3.1. **The Sudelist Ethical Compass**
 Instead of asking “Is this action right or wrong?” (as in deontological ethics) or “Does this action maximize happiness?” (as in utilitarianism), Sudelism asks: “Does this action maintain a balance between individual comfort and collective ease?”
 
-2. **The Four Sudelist Modes of Behavior**
+3.2. **The Four Sudelist Modes of Behavior**
 
 | Mode | Definition | Example |
 | :-------- | :------- | :------- |
