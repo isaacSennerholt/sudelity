@@ -353,9 +353,18 @@ Rigid moral codes often overlook context, demanding adherence to fixed principle
 
 Sudelism offers an alternative: a situational, adaptive philosophy of ethical balance. It is not a prescriptive set of rules but a framework for navigating complexity with precision and awareness. It does not ask, “What is the absolute right thing to do?” but rather:
 
-How do we act in a way that respects the integrity of existing systems while allowing for necessary change?
-How do we integrate ourselves into an environment without erasing its stability or forfeiting our own agency?
-How do we engage with others in ways that minimize unnecessary friction while maintaining the possibility of growth?
+- "How do we act in a way that respects the integrity of existing systems while allowing for necessary change?"
+- "How do we integrate ourselves into an environment without erasing its stability or forfeiting our own agency?"
+- "How do we engage with others in ways that minimize unnecessary friction while maintaining the possibility of growth?"
+
+Sudalism seeks to uncover a modern, universal language rooted in the human experience. It aims to transcend differences in religion and lifestyle, offering a sense of familiarity to environments that otherwise would seem unfamiliar. A lens of clarity, one that reveals the mechanics of language, behavior, cause and effect.
+
+- Sudelism isn’t just norm-setting, it’s reality-tracking.
+It doesn’t impose an ideal divorced from complexity—it trains the mind to see clearly: how environments affect behavior, how individuals affect shared space, and how meaning emerges (or distorts) in context.
+- It’s always relevant because context is always present.
+There is no action without environment, no identity without relational space. That means Sudelism applies not only in ethical dilemmas, but in all aspects of human experience.
+- It allows people to construct truth, not just obey it.
+Rather than prescribing morality top-down, it helps individuals build bottom-up ethical clarity based on the actual variables in play.
 
 ### 2. The Core Tenets of Sudelism
 
@@ -415,7 +424,7 @@ These commitments function as the ethical tension of Sudelism: the recognition t
 
 Sudelism is not a static ideology; it is an evolving approach to ethical navigation. It is applicable wherever human interaction occurs— in relationships, institutions, intellectual discourse, and societal structures. Its strength lies in its adaptability, its refusal to be constrained by dogma, and its insistence on ethical precision.
 
-To practice Sudelism is to refine one’s ability to act with clarity, with purpose, and with an understanding of the larger systems at play. It is a method for those who seek to engage with the world not as passive participants nor as reckless disruptors, but as deliberate agents of balance and transformation.
+To practice Sudelism is to refine one’s ability to act with clarity, with purpose, and with an understanding of the larger systems at play. It is a method for those who seek to engage with the world not as passive participants nor as reckless disruptors, but as deliberate agents of balance, transformation and clarity.
 
 ### Related Disciplinary Fields
 * Neuroscience
