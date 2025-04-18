@@ -397,15 +397,19 @@ This framework helps individuals navigate interactions without rigid moral dicta
 
 ### 4. Sudelist Commitments: A Practical Ethic
 
-A Sudelist does not adhere to a fixed doctrine but to a method of thinking and acting, grounded in:
+Sudelism offers not a static doctrine, but a dynamic ethic—one shaped through practice, reflection, and relational sensitivity. A Sudelist does not pursue moral purity, but ethical calibration: the ongoing act of positioning oneself in thoughtful relation to others and to the environments we share. These commitments serve as instruments of navigation—not to constrain autonomy, but to elevate responsibility.
 
-✅ Environmental Awareness – Recognizing the existing structures of a space before attempting to reshape them.
+4.1 **Commitment I**
 
-✅ Proportionality in Action – Adjusting behavior to align with context while preserving one’s core identity.
+Try to establish familiar environments for yourself.
 
-✅ Ethical Integration – Engaging with others in ways that minimize friction without resorting to passivity.
+4.2 **Commitment II**
 
-✅ Purposeful Change – Ensuring that disruption is deliberate, justified, and strategically executed.
+Do not consciously make other people' environments less familiar in your attempt to follow the first commitment, unless doing so warrants less chaotic emergence.
+
+> Less chaotic emergence refers to a causal pattern in which environmental changes affect N individuals each N times, resulting in a more stable, predictable, and collectively beneficial state.
+
+These commitments function as the ethical tension of Sudelism: the recognition that your effort to stabilize your environments must not recklessly destabilize someone else’s.
 
 ### 5. A Living Philosophy
 
