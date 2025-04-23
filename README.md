@@ -416,8 +416,6 @@ Try to establish familiar environments for yourself.
 
 Do not consciously make other people' environments less familiar in your attempt to follow the first commitment, unless doing so warrants less chaotic emergence.
 
-> Less chaotic emergence refers to a causal pattern in which environmental changes affect N individuals each N times, resulting in a more stable, predictable, and collectively beneficial state.
-
 These commitments function as the ethical tension of Sudelism: the recognition that your effort to stabilize your environments must not recklessly destabilize someone else’s.
 
 ### 5. A Living Philosophy
