@@ -607,12 +607,22 @@ A traditional Chinese philosophy centered on social harmony, duty to family and 
 
 ### Sudelism's Original Contributions
 
-- **Situational Stabilization**: Sudelism prioritizes creating and maintaining familiar, stable environments both for the individual and the group.
-- **Emergent Balance**: Rather than rigid outcomes or emotional motivations, Sudelism seeks a dynamic, self-sustaining balance between autonomy and environmental respect.
-- **Dual Commitments**:
-  - **Commitment I**: Try to establish familiar environments for yourself.
-  - **Commitment II**: Do not consciously make other people's environments less familiar in your attempt to follow the first commitment, unless doing so warrants less chaotic emergence.
-- **Emergent Systems Ethics**: Sudelism introduces "chaotic emergence" as an ethical metric—actions are judged not just by intent or immediate outcome but by their contribution to the broader pattern of systemic stability or instability.
+- **Situational Stabilization**:\
+  Sudelism prioritizes creating and maintaining familiar, stable environments both for the individual and the group.
+
+- **Emergent Balance**:\
+  Rather than rigid outcomes or emotional motivations, Sudelism seeks a dynamic, self-sustaining balance between autonomy and environmental respect.
+  
+- **Normative Commitments**:
+
+  **Commitment I**:
+  > Try to establish familiar environments for yourself.
+
+  **Commitment II**:
+  > Do not consciously make other people's environments less familiar in your attempt to follow the first commitment, unless doing so warrants less chaotic emergence.
+
+- **Emergent Systems Ethics**:\
+  Sudelism introduces *chaotic emergence* as an ethical metric — actions are judged not only by intent or immediate outcome but by their contribution to the broader pattern of systemic stability or instability.
 
 ### Conclusion
 
