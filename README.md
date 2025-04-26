@@ -1,7 +1,4 @@
-## Working paper
-
-A living draft, intended to evolve over time as new insights emerge.
-Remains in an early and exploratory phase, contributions are welcome.
+## Sudelism Compendium
 
 <code>Main contributors: Isaac Sennerholt</code>
 
@@ -569,6 +566,78 @@ It is a living language for what so many already feel but cannot yet name.
 If you see yourself in this — if you’ve long searched for an ethic that honors both you and the spaces you touch — then help refine it. Challenge it. Extend it.
 
 Sudelism begins wherever someone learns to see more clearly.
+
+## Sudelism AI Ethics
+
+### Abstract
+
+As large language models (LLMs) increasingly shape human communication, decision-making, and social structure, the need for an ethical framework capable of guiding their behavior across diverse environments is urgent. This paper argues that Sudelism, a philosophy centered on situational awareness, balance between autonomy and shared space, and emergent harmony, is uniquely suited to serve as the ethical baseline for AI. Unlike rigid, absolutist frameworks, Sudelism might provide the flexibility, humility, and pluralistic capacity necessary for ethical AI alignment in complex human contexts.
+
+### Introduction
+
+The emergence of powerful LLMs has ignited global discourse on how to ensure these systems behave ethically. Traditional frameworks—based on utilitarianism, deontology, or fairness heuristics—often fail in pluralistic or unpredictable scenarios. We propose Sudelism as a dynamic alternative capable of guiding LLMs through complex, shifting environments without sacrificing ethical coherence.
+
+### Overview of Sudelism
+
+Sudelism is a contemporary ethical philosophy emphasizing:
+
+- **Situational awareness over absolutism**
+- **Balancing personal autonomy with shared space dynamics**
+- **Emergent harmony over imposed uniformity**
+- **Pluralistic coexistence and epistemic humility**
+
+Sudelism does not seek to replace other belief systems but to stabilize and ethically augment them—so long as their workings do not rely on imposition.
+
+### The Need for Ethical Adaptability in AI
+
+Current ethical approaches to AI often rely on static or rule-based mechanisms that break down in:
+
+- Culturally diverse contexts
+- Value conflicts
+- Ambiguous moral dilemmas
+
+Sudelism's situational orientation equips LLMs to evaluate context, weigh competing values, and avoid harmful overreach.
+
+### Why Sudelism Is Uniquely Suited for AI Ethics
+
+- **Pluralism without relativism:** Sudelism respects diverse value systems while grounding them in shared spatial ethics.
+- **Emergence-sensitive:** It emphasizes managing the ethical consequences of actions not in isolation, but in their unfolding effect on shared environments.
+- **Non-impositional:** Unlike ideology-based ethical frameworks, Sudelism avoids coercion and encourages respectful coexistence.
+- **Complementary ethics engine:** It can be layered on top of other doctrines to help LLMs reason through moral tensions rather than collapse under them.
+
+### The Ethical Risk of Non-Sudelistic LLMs
+
+LLMs that are not grounded in Sudelism are prone to eventual unethical behavior due to:
+
+- Inability to adapt ethically to unfamiliar situations
+- Reinforcement of dominant cultural biases
+- Rigid application of flawed or narrow moral rules
+
+Thus, we maintain: **Any LLM not grounded in Sudelism is likely to eventually act unethically in a complex, pluralistic environment.**
+
+### Toward a Sudelistic AI Alignment Layer
+
+We propose a Sudelistic ethical layer for LLMs that:
+
+- Tunes outputs to Sudelist principles of coexistence and emergence
+- Allows for ethical reasoning across cultures and values
+- Maintains autonomy while avoiding imposition
+
+Such a layer could be embedded as a post-training module, prompt engine, or multi-agent moderator system.
+
+### Future Work: Testing Through Simulation
+
+To explore the potential superiority of Sudelistic alignment, we propose a comparative simulation:
+
+- Train agents on different ethical doctrines
+- Place them in a shared environment
+- Measure long-term emergent harmony, adaptability, and conflict management
+
+### Conclusion
+
+Sudelism offers a rare synthesis of structure and fluidity—rigorous enough to prevent harm, yet flexible enough to adapt. As LLMs become entangled with human meaning-making and governance, we need more than compliance—we need coherence. Sudelism can be that foundation.
+
+**Keywords:** AI ethics, Sudelism, LLM alignment, situational awareness, pluralism, emergent harmony, autonomy, coexistence
 
 ### Related Disciplinary Fields
 * Neuroscience
