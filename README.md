@@ -760,7 +760,7 @@ Such a layer could be embedded as a post-training module, prompt engine, or mult
 
 ### Future Work: Testing Through Simulation
 
-To explore the potential superiority of Sudelistic alignment, we propose a comparative simulation:
+To explore the potential advantages of Sudelistic alignment, we propose a comparative simulation:
 
 - Train agents on different ethical doctrines
 - Place them in a shared environment
