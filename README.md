@@ -533,14 +533,16 @@ Yes. Like any ethical tool, Sudelism can be co-opted. A skilled manipulator may 
 Sudelism is not a belief system to adopt, but a sensitivity to cultivate — a living discipline rooted in how we show up in space, respond to change, and contribute to the emotional and perceptual ecosystems we share.
 
 It begins in small gestures:
- – Noticing how your tone shifts the air in a room.
- – Sensing when someone’s rhythm has been disrupted by your presence.
- – Adjusting without erasing yourself — holding both your ground and their comfort.
+
+* Noticing how your tone shifts the air in a room.
+* Sensing when someone’s rhythm has been disrupted by your presence.
+* Adjusting without erasing yourself — holding both your ground and their comfort.
 
 It deepens with time:
- – As you grow more fluent in the languages of silence, subtlety, and space.
- – As you come to see that clarity doesn’t always come from speaking louder, but from listening better.
- – As you learn that ethical presence is not about winning, but weaving — not about asserting identity, but integrating respectfully.
+
+* As you grow more fluent in the languages of silence, subtlety, and space.
+* As you come to see that clarity doesn’t always come from speaking louder, but from listening better.
+* As you learn that ethical presence is not about winning, but weaving — not about asserting identity, but integrating respectfully.
 
 Sudelism will not give you all the answers. But it will change your questions.
 
@@ -555,9 +557,6 @@ From “Did I express myself?” to “Did my presence bring coherence or disson
 From “Did I win?” to “Did we remain whole?”
 
 These questions won’t always yield simple answers. But they will orient you — inwardly and outwardly — toward more stable forms of ethical presence.
-
-You don’t need permission to begin.
-Sudelity begins in awareness, and awareness begins where you are — now.
 
 This is not the end of the manifesto, but the beginning of the practice.
 
@@ -612,7 +611,7 @@ A traditional Chinese philosophy centered on social harmony, duty to family and 
   Sudelism prioritizes creating and maintaining familiar, stable environments both for the individual and the group.
 
 - **Emergent Balance**:\
-  Rather than rigid outcomes or emotional motivations, Sudelism seeks a dynamic, self-sustaining balance between autonomy and environmental respect.
+  Rather than rigid outcomes or impositions, Sudelism seeks a dynamic, self-sustaining balance between autonomy and environmental respect.
   
 - **Normative Commitments**:
 
