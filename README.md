@@ -14,7 +14,7 @@ For as long as I can remember, I’ve struggled to understand and embody the soc
 
 I’ve often failed in ways I couldn’t foresee, let others down without meaning to, disappeared into thought when presence was needed, offered silence when others expected speech. I care deeply, but not always legibly. And though I can be social in bursts, I live much of my life inside — inside projects, philosophies, and long arcs of effort that may outlast my own lifetime.
 
-Sudelism was my attempt to make sense of that inner life in relation to others — and to take responsibility for it. It is not a system born of mastery. I am not a model Sudelist, nor do I pretend to be. In many ways, I am the first subject of the very ethic I try to describe — its first failure, and its first attempt.
+Sudelism was my attempt to make sense of that inner life in relation to others — and to take responsibility for it. It is not a system born of mastery. I am not a model Sudelist, nor do I pretend to be. In many ways, I am the first subject of the very ethic I try to describe — its first failure, and its first articulated attempt.
 
 Like all meaningful frameworks, Sudelism points toward a horizon none of us will reach. Its core is not perfection, but effort. Not fluency, but awareness. Not conformity, but coexistence. It asks us to consider not just what we intend, but what we cause — and to adjust not in pursuit of social approval, but in service of shared space.
 
