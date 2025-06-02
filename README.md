@@ -2,18 +2,48 @@
 
 <code>Main contributors: Isaac Sennerholt</code>
 
-## Sudel /ˈsuːdəl/
+## Founder’s Preamble
 
-### Etymology
+### On Falling Short, and Still Walking
+
+I did not set out to build a philosophy.
+
+Sudelism emerged slowly — not as a revelation, but as a response. A response to a quiet, persistent dissonance between how I experienced the world and how the world seemed to expect itself to be experienced.
+
+For as long as I can remember, I’ve struggled to understand and embody the social patterns others seemed to absorb naturally. In childhood, through no fault of my own or anyone else’s, I missed out on learning the tools that many use to navigate shared spaces — subtle cues, unwritten rules, tacit timings. What others call “normal” often felt like a language I was never taught but expected to speak fluently.
+
+I’ve often failed in ways I couldn’t foresee, let others down without meaning to, disappeared into thought when presence was needed, offered silence when others expected speech. I care deeply, but not always legibly. And though I can be social in bursts, I live much of my life inside — inside projects, philosophies, and long arcs of effort that may outlast my own lifetime.
+
+Sudelism was my attempt to make sense of that inner life in relation to others — and to take responsibility for it. It is not a system born of mastery. I am not a model Sudelist, nor do I pretend to be. In many ways, I am the first subject of the very ethic I try to describe — its first failure, and its first attempt.
+
+Like all meaningful frameworks, Sudelism points toward a horizon none of us will reach. Its core is not perfection, but effort. Not fluency, but awareness. Not conformity, but coexistence. It asks us to consider not just what we intend, but what we cause — and to adjust not in pursuit of social approval, but in service of shared space.
+
+This philosophy is for those who see patterns where others see noise. For those who walk slowly through things others rush past. For those who live in the tension between needing solitude and wishing to be understood. It is a scaffolding, not a shelter — a way of thinking that tries to make space for difference while remaining accountable to others.
+
+In that way, Sudelism is less a doctrine than a discipline: a daily, imperfect effort to be a better participant in the world, especially when one feels naturally out of step with it.
+
+I offer this compendium not as a finished vision, but as a beginning — a foundation to build upon, challenge, and adapt. It is a record of one person’s attempt to be more human among humans — not by changing who I am, but by learning how to better meet others where they are.
+
+I still fall short. I expect I always will.
+But I believe in the value of the trying.
+
+— The Founder
+Sudelist Year One
+
+## Terminology
+
+### Sudel /ˈsuːdəl/
+
+#### Etymology
 
 Derived from the Byzantine Greek word "σοῦδα" (suda), meaning "ditch" or "trench", which later came to mean "fortress". "Sudel" metaphorically represents establishing and maintaining a sense of personal "fortress" (personal boundaries and familiar spaces) within shared spaces, while respecting the "fortresses" of others. It signifies the delicate balance of creating individual comfort without disrupting existing familiarities and expectations. The sound subtly evokes "suitable" and "subtle", reinforcing appropriateness and nuanced consideration.
 
-### Definitions
+#### Definitions
 
 * **(Noun):** Actively navigating shared spaces and interactions by skillfully balancing one’s personal needs and preferences with the existing familiarities and expectations of others, fostering mutual understanding and minimizing disruption.
 * **(Adjective):** Characterized by or relating to Sudel; marked by balance, consideration, and mutual respect in shared contexts.
 
-### Related Words
+#### Related Words
 
 * **Sudelize (verb):** To practice or implement Sudel.
 * **Sudelist (noun):** A person who practices or advocates for Sudel.
@@ -21,7 +51,7 @@ Derived from the Byzantine Greek word "σοῦδα" (suda), meaning "ditch" or "
 * **Sudelistic (adjective):** Relating to or characteristic of Sudel.
 * **Sudelism (noun):** The philosophical system based on Sudel, focusing on dynamic social navigation and balance.
 
-### Example Sentences
+#### Example Sentences
 
 * **(Noun):** "The success of the international summit depended on careful sudel between the delegates’ differing cultural norms."
 * **(Adjective):** "Her sudel approach to conflict resolution ensured that all parties felt heard and understood."
@@ -29,21 +59,13 @@ Derived from the Byzantine Greek word "σοῦδα" (suda), meaning "ditch" or "
 * **(Sudelize):** "He demonstrated excellent ability to sudelize by adapting his work style to fit the team’s dynamic."
 * **(Sudelity):** "The high level of sudelity within the organization fostered a positive and productive work environment."
 
-### Usage Notes
+#### Usage Notes
 
 "Sudel" emphasizes the active and ongoing nature of balancing individual and collective needs in shared contexts. It implies a conscious and intentional effort to navigate social and physical spaces with consideration and respect. It focuses on the metaphorical "fortresses" of personal space and familiarity.
 
-### Pronunciation Guide
+#### Pronunciation Guide
 * **IPA:** /ˈsuːdəl/
 * **Phonetic respelling:** SUH-dell
-
-### Guiding Principles
-
-* **Contextual Awareness:** Active and ongoing observation of the existing environment, including social norms, communication styles, established habits, and individuals’ "metaphorical fortresses", gained through observation, active listening, and thoughtful consideration. This awareness is continuously updated as contexts evolve.
-* **Balancing Familiarity and Adaptation:** Dynamically balancing the need for personal familiarity with adaptation to existing contexts. This involves a continuous process of assessing the environment and finding ways to introduce personal elements without significantly disrupting others’ familiarities, while being open to mutual adaptation.
-* **Respectful Navigation:** Navigating shared spaces and interactions with respect for others’ "metaphorical fortresses", prioritizing avoiding actions that directly disrupt them, except when necessary to prevent harm or facilitate significant positive change for the shared environment, with careful consideration of minimizing disruption and ethical implications.
-* **Strategic Influence (Not Imposition):** Encouraging subtle and gradual influence, not imposing preferences. This involves creating win-win situations through subtle behavioral shifts (e.g., adjusting communication style), carefully chosen words (framing), or collaborative suggestions that respect existing norms.
-* **Continuous Evaluation and Adjustment:** An ongoing process of evaluation and adjustment, requiring constant monitoring of the environment, assessing the impact of one’s actions (feedback loops), and adapting one’s approach, learning from past experiences and feedback.
 
 ## The Sudelist Manifesto
   
@@ -78,7 +100,7 @@ They do not reside in grand gestures, but in small calibrations: the choice to p
 
 A Sudel behavior is not defined by intent alone, but by how it alters the emotional orientation of those it touches. It lives in the response — in the perceptual shifts and felt tensions it leaves behind.
 
-### Terminology & Definitions
+### Descriptive Terminology & Definitions
 
 #### Sudel (n.)
 
@@ -270,68 +292,6 @@ If you see yourself in this — if you’ve long searched for an ethic that hono
 
 Sudelism begins wherever someone learns to see more clearly.
 
-## Sudelism Compared to Existing Philosophical and Ethical Systems
-
-### Introduction
-
-As a developing philosophical system, Sudelism must demonstrate both its connection to, and distinction from, existing traditions. This comparison clarifies Sudelism's originality, ensures its normative robustness, and shows its relevance to contemporary ethical and societal challenges. Sudelism does not aim to replace other systems but seeks to offer a complementary framework focused on stabilizing coexistence, balancing personal autonomy, and reducing chaotic emergence.
-
-### Philosophical Systems Most Related to Sudelism
-
-#### Pragmatism
-Pragmatism, associated with thinkers like Charles Sanders Peirce, William James, and John Dewey, holds that ideas and truths should be evaluated based on their practical consequences. It prioritizes what works in achieving goals over adherence to abstract ideals.
-
-#### Situation Ethics
-Developed by Joseph Fletcher, Situation Ethics claims that moral decisions should be based on the context and the primacy of love (agapē). It rejects rigid moral rules in favor of flexible, compassionate decision-making.
-
-#### Stoicism
-Stoicism, originating with Zeno of Citium and later expanded by Epictetus and Marcus Aurelius, emphasizes virtue, rational control over emotions, and acceptance of what cannot be changed. Ethical living means living in accordance with nature and reason.
-
-#### Utilitarianism
-Associated with Jeremy Bentham and John Stuart Mill, Utilitarianism advocates actions that maximize overall happiness or minimize suffering. It is a consequentialist system where the outcomes define the morality of an action.
-
-#### Deontological Ethics
-Immanuel Kant's deontological ethics emphasize duty and adherence to universal moral laws. Actions are moral when performed out of duty and according to rules that could be willed as universal laws.
-
-#### Existentialism
-Existentialists like Jean-Paul Sartre and Simone de Beauvoir stress individual freedom, authenticity, and the burden of creating one's own meaning in a meaningless universe. Ethics arises from radical individual responsibility.
-
-#### Confucianism
-A traditional Chinese philosophy centered on social harmony, duty to family and society, and cultivation of virtuous character. It values relational ethics, ritual propriety, and mutual respect.
-
-### Key Differences
-
-|                         | Pragmatism                    | Situation Ethics             | Stoicism                      | Utilitarianism                | Deontological Ethics          | Existentialism                 | Confucianism                   | Sudelism                                      |
-|:------------------------|:------------------------------|:------------------------------|:------------------------------|:------------------------------|:------------------------------|:-------------------------------|:-------------------------------|:------------------------------------------------|
-| **Focus**               | Practical utility             | Contextual love               | Virtue and rationality         | Maximizing happiness          | Duty and universal rules      | Individual freedom             | Social harmony and ritual      | Stabilizing familiar environments and balancing autonomy |
-| **Core Value**          | Effectiveness                 | Love                          | Virtue                         | Happiness                     | Duty                         | Authentic existence            | Relational respect              | Familiarity, autonomy balance, reduction of chaotic emergence |
-| **Conflict Approach**   | Acceptable if pragmatically useful | Acceptable if motivated by love | Endure without complaint     | Minimize suffering            | Duty regardless of outcome    | Own burden to bear             | Harmonize through respect      | Acceptable only if it reduces chaotic emergence |
-| **Normative Principle** | Truth evolves through success | Love is the only norm          | Live according to nature       | Greatest good for greatest number | Act according to duty      | Authenticity                  | Propriety and virtue           | Commitment to self-stabilization and non-disruption |
-
-### Sudelism's Original Contributions
-
-- **Situational Stabilization**:\
-  Sudelism prioritizes creating and maintaining familiar, stable environments both for the individual and the group.
-
-- **Emergent Balance**:\
-  Rather than rigid outcomes or impositions, Sudelism seeks a dynamic, self-sustaining balance between autonomy and environmental respect.
-  
-- **Normative Commitments**:
-
-  **Commitment I**:
-  > Try to establish familiar environments for yourself.
-
-  **Commitment II**:
-  > Do not consciously make other people's environments less familiar in your attempt to follow the first commitment, unless doing so warrants less chaotic emergence.
-
-- **Emergent Systems Ethics**:\
-  Sudelism introduces *chaotic emergence* as an ethical metric — actions are judged not only by intent or immediate outcome but by their contribution to the broader pattern of systemic stability or instability.
-
-### Conclusion
-
-While Sudelism shares concerns with systems like pragmatism (practical action), situation ethics (contextual awareness), and Confucianism (social harmony), it introduces a fundamentally new ethical center: stabilizing familiar environments without sacrificing autonomy, judged through the lens of systemic emergence rather than isolated actions or feelings. This original focus positions Sudelism as a distinct and timely addition to the philosophical landscape, particularly suited for navigating complex modern environments.
-
-
 ## Sudelism Metaethics
 
 ### Sudelism as a Novel Contribution to Ethical Thought: A Meta-Ethical Positioning
@@ -473,6 +433,67 @@ To explore the potential advantages of Sudelistic alignment, we propose a compar
 Sudelism offers a rare synthesis of structure and fluidity—rigorous enough to prevent harm, yet flexible enough to adapt. As LLMs become entangled with human meaning-making and governance, we need more than compliance—we need coherence. Sudelism can be that foundation.
 
 **Keywords:** AI ethics, Sudelism, LLM alignment, situational awareness, pluralism, emergent harmony, autonomy, coexistence
+
+## Sudelism Compared to Existing Philosophical and Ethical Systems
+
+### Introduction
+
+As a developing philosophical system, Sudelism must demonstrate both its connection to, and distinction from, existing traditions. This comparison clarifies Sudelism's originality, ensures its normative robustness, and shows its relevance to contemporary ethical and societal challenges. Sudelism does not aim to replace other systems but seeks to offer a complementary framework focused on stabilizing coexistence, balancing personal autonomy, and reducing chaotic emergence.
+
+### Philosophical Systems Most Related to Sudelism
+
+#### Pragmatism
+Pragmatism, associated with thinkers like Charles Sanders Peirce, William James, and John Dewey, holds that ideas and truths should be evaluated based on their practical consequences. It prioritizes what works in achieving goals over adherence to abstract ideals.
+
+#### Situation Ethics
+Developed by Joseph Fletcher, Situation Ethics claims that moral decisions should be based on the context and the primacy of love (agapē). It rejects rigid moral rules in favor of flexible, compassionate decision-making.
+
+#### Stoicism
+Stoicism, originating with Zeno of Citium and later expanded by Epictetus and Marcus Aurelius, emphasizes virtue, rational control over emotions, and acceptance of what cannot be changed. Ethical living means living in accordance with nature and reason.
+
+#### Utilitarianism
+Associated with Jeremy Bentham and John Stuart Mill, Utilitarianism advocates actions that maximize overall happiness or minimize suffering. It is a consequentialist system where the outcomes define the morality of an action.
+
+#### Deontological Ethics
+Immanuel Kant's deontological ethics emphasize duty and adherence to universal moral laws. Actions are moral when performed out of duty and according to rules that could be willed as universal laws.
+
+#### Existentialism
+Existentialists like Jean-Paul Sartre and Simone de Beauvoir stress individual freedom, authenticity, and the burden of creating one's own meaning in a meaningless universe. Ethics arises from radical individual responsibility.
+
+#### Confucianism
+A traditional Chinese philosophy centered on social harmony, duty to family and society, and cultivation of virtuous character. It values relational ethics, ritual propriety, and mutual respect.
+
+### Key Differences
+
+|                         | Pragmatism                    | Situation Ethics             | Stoicism                      | Utilitarianism                | Deontological Ethics          | Existentialism                 | Confucianism                   | Sudelism                                      |
+|:------------------------|:------------------------------|:------------------------------|:------------------------------|:------------------------------|:------------------------------|:-------------------------------|:-------------------------------|:------------------------------------------------|
+| **Focus**               | Practical utility             | Contextual love               | Virtue and rationality         | Maximizing happiness          | Duty and universal rules      | Individual freedom             | Social harmony and ritual      | Stabilizing familiar environments and balancing autonomy |
+| **Core Value**          | Effectiveness                 | Love                          | Virtue                         | Happiness                     | Duty                         | Authentic existence            | Relational respect              | Familiarity, autonomy balance, reduction of chaotic emergence |
+| **Conflict Approach**   | Acceptable if pragmatically useful | Acceptable if motivated by love | Endure without complaint     | Minimize suffering            | Duty regardless of outcome    | Own burden to bear             | Harmonize through respect      | Acceptable only if it reduces chaotic emergence |
+| **Normative Principle** | Truth evolves through success | Love is the only norm          | Live according to nature       | Greatest good for greatest number | Act according to duty      | Authenticity                  | Propriety and virtue           | Commitment to self-stabilization and non-disruption |
+
+### Sudelism's Original Contributions
+
+- **Situational Stabilization**:\
+  Sudelism prioritizes creating and maintaining familiar, stable environments both for the individual and the group.
+
+- **Emergent Balance**:\
+  Rather than rigid outcomes or impositions, Sudelism seeks a dynamic, self-sustaining balance between autonomy and environmental respect.
+  
+- **Normative Commitments**:
+
+  **Commitment I**:
+  > Try to establish familiar environments for yourself.
+
+  **Commitment II**:
+  > Do not consciously make other people's environments less familiar in your attempt to follow the first commitment, unless doing so warrants less chaotic emergence.
+
+- **Emergent Systems Ethics**:\
+  Sudelism introduces *chaotic emergence* as an ethical metric — actions are judged not only by intent or immediate outcome but by their contribution to the broader pattern of systemic stability or instability.
+
+### Conclusion
+
+While Sudelism shares concerns with systems like pragmatism (practical action), situation ethics (contextual awareness), and Confucianism (social harmony), it introduces a fundamentally new ethical center: stabilizing familiar environments without sacrificing autonomy, judged through the lens of systemic emergence rather than isolated actions or feelings. This original focus positions Sudelism as a distinct and timely addition to the philosophical landscape, particularly suited for navigating complex modern environments.
 
 ### Related Disciplinary Fields
 * Neuroscience
