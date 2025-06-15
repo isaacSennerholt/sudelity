@@ -96,7 +96,7 @@ Sudelism is not a destination but a continuous journey — one that requires per
 
 Sudel behaviors are the subtle, often unspoken expressions of Sudelity — the ethical practice of balancing one’s own familiar ways of being with the familiarities of others in a shared environment.
 
-They do not reside in grand gestures, but in small calibrations: the choice to pause rather than press, to listen rather than anchor, to harmonize without dissolving into sameness.
+They do not reside in grand gestures, but in small calibrations: the choice to pause rather than press — or, at times, to press rather than pause — to listen without disappearing, to harmonize without dissolving into sameness. These calibrations are not fixed rules but dynamic attunements to the expectations and familiarities of those who share the space, balanced with one’s own. Sudel behaviors emerge from the tension between inner rhythm and external resonance.
 
 A Sudel behavior is not defined by intent alone, but by how it alters the emotional orientation of those it touches. It lives in the response — in the perceptual shifts and felt tensions it leaves behind.
 
