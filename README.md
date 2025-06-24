@@ -119,47 +119,49 @@ Sudelism is not the answer. It is the condition in which answers unfold.
 
 ### Core Concept – Sudel behaviors
 
-Sudel behaviors are the subtle, often unspoken expressions of Sudelity — the ethical practice of balancing one’s own familiar ways of being with the familiarities of others in a shared environment.
+Sudel behaviors are the subtle, often unspoken expressions of Sudelity — the ethical practice of balancing one’s familiar ways of being with those of others in shared space.
 
-They do not reside in grand gestures, but in small calibrations: the choice to pause rather than press — or, at times, to press rather than pause — to listen without disappearing, to harmonize without dissolving into sameness. These calibrations are not fixed rules but dynamic attunements to the expectations and familiarities of those who share the space, balanced with one’s own. Sudel behaviors emerge from the tension between inner rhythm and external resonance.
+They do not reside in grand gestures, but in small calibrations: the choice to pause rather than press — or, at times, to press rather than pause — to listen without disappearing, to act without overpowering, to harmonize without dissolving into sameness. These calibrations are not fixed rules, but dynamic attunements to the expectations and familiarities of those who share the space, balanced with one’s own. Sudel behaviors emerge from the tension between inner rhythm and external resonance.
 
-A Sudel behavior is not defined by intent alone, but by how it alters the emotional orientation of those it touches. It lives in the response — in the perceptual shifts and felt tensions it leaves behind.
+A Sudel behavior is not defined by intent alone, but by how it shifts the emotional posture of those it touches. It lives in the response — in the perceptual shifts and felt tensions it leaves behind.
 
 ### Descriptive Terminology & Definitions
 
 #### Sudel (n.)
 
-Sudel is the subtle, often imperceptible act of balancing one’s own familiar ways of being with the familiarities of others in a shared environment. It is the foundational skill that Sudelism cultivates — an ethical sensibility that allows individuals to move through spaces without overpowering, to express themselves without displacing others, and to adapt without erasing their own identity.
+Sudel is the subtle, often imperceptible act of balancing one’s own familiarities with those of others in a shared environment. It is not a discrete gesture, but a relational influence — a shift that becomes meaningful only through its effect on others’ perceptual field and emotional resonance.
 
-A Sudel act is not a physical gesture or discrete event, but a relational influence — a shift that becomes real only through its effect on others’ perceptual field and emotional resonance. It is the change in atmosphere — whether it eases, unsettles, or remains neutral — that your presence introduces.
+A Sudel act does not seek to dominate or disappear, but to find a livable tension between expression and attunement. It is the invisible adjustment, the calibrated presence, that either supports or disturbs the emotional texture of space.
 
-Sudel behaviors are not inherently good or bad; rather, they invariably shape the emotional emergence of shared experience.
+Sudel acts are not inherently good or bad; they are directional — shaping shared experience as it emerges. They ease or unsettle, stabilize or erode. And because their influence is subtle, their ethical weight often goes unnoticed.
 
 #### Sudelism (n.)
 
-Sudelism is an ethical framework rooted in the conscious practice of Sudelizing — the act of balancing one’s own familiarities with those of others in shared environments.
+Sudelism is not a philosophy in the traditional sense, but a description of a constant force already at play wherever people share space. It names the emergent patterns through which behavior, presence, and perception ripple into collective dynamics — affecting safety, clarity, coherence, and trust.
 
-It is a philosophy of presence, one that favors contextual sensitivity over rigid moral codes, seeking coherence and mutual respect over dominance in how individuals shape each other’s lived realities.
+To Sudelize is to participate consciously in the constant shaping of shared experience — adjusting presence in ways that sustain mutual legibility and respect. Sudelism doesn’t impose rules; it clarifies the contours of influence we already navigate.
 
-Rather than offering strict prescriptions, Sudelism provides a lens through which individuals can perceive the ripple effects of their presence, guiding them toward more respectful, adaptive, and emotionally attuned coexistence.
+Rather than offering prescriptions, Sudelism provides a lens: one that sharpens our ability to perceive how subtle actions — silence, tone, posture, timing — affect the unfolding atmosphere. It trains ethical precision not by decree, but by awareness.
+
+To practice Sudelism is not to obey, but to notice. To respond. And to refine — again and again.
 
 #### Sudelist (n.)
 
-A Sudelist is someone who actively cultivates the awareness and skill to Sudelize — to navigate shared spaces with sensitivity to the emotional and perceptual landscapes of others.
+A Sudelist is someone who learns to read and respond to the unspoken dynamics of shared space. Not by mastering a system, but by continually refining their sensitivity to how presence affects others.
 
-The Sudelist does not seek moral superiority but strives for relational fluency — the ability to adjust, hold space, and contribute to an environment where multiple forms of familiarity coexist without collapse.
+The Sudelist does not pursue moral purity, but relational fluency — the ability to participate in complex environments without dominating or withdrawing, without imposing uniformity or losing oneself.
 
-To be a Sudelist is to be ethically present — not through adherence to fixed rules, but through the ongoing recognition of one’s role in shaping the emotional quality of collective experience.
+To be a Sudelist is to recognize that coexistence unfolds moment by moment — and that presence is never neutral. It is to move with care, not caution — and to see care as an active form of precision.
 
 #### Sudelity (n.)
 
-Sudelity is the measure of one’s ethical presence in shared environments — a reflection of how well one perceives, responds to, and respects the relational dynamics at play.
+Sudelity is the quality of one’s ethical presence — a reflection of how well one balances their own familiar ways of being with those of others in real time.
 
-It is not about perfection or virtue, but about calibration: how attuned one is to the subtleties of emotional emergence and perceptual balance.
+It is not about being agreeable or polite. It is about calibration: knowing when to yield, when to hold, when to speak, when to stay silent — and understanding how those choices reverberate.
 
-High Sudelity reflects the ability to contribute to environments that feel safe, fluid, and inclusive, without becoming homogenized or stagnant.
+High Sudelity is not perfection, but responsiveness. It marks those who can navigate plural environments without erasing difference or destabilizing the space. It is what allows space to feel coherent without becoming uniform, shared without becoming flattened.
 
-Sudelity is less a static state than a dynamic practice of attentiveness and adaptation.
+Sudelity is not a destination, but a practice — alive in attention, made real through adjustment.
 
 ### The Foundations of Sudelism
 
