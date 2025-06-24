@@ -542,16 +542,16 @@ Marked by presence that balances self-expression with environmental attunement; 
 #### Related Terms
 
 * **Sudelize (verb):** To engage in Sudel-like behavior; to consciously attune one’s presence in ways that stabilize or clarify shared space.<br/>
-“She naturally sudelizes in new environments — never imposing, never disappearing.”
+> She naturally sudelizes in new environments — never imposing, never disappearing.
 
 * **Sudelist (noun):** One who practices or embodies Sudelism, marked by sensitivity to how presence influences shared atmospheres.<br/>
-“The facilitator was a true Sudelist — attuned, adaptable, and quietly anchoring the room.”
+> The facilitator was a true Sudelist — attuned, adaptable, and quietly anchoring the room.
 
 * **Sudelity (noun):** The quality of ethical presence marked by skilled balancing of one’s own familiarities with those of others.<br/>
-“High Sudelity in the team led to fewer miscommunications and more psychological safety.”
+> High Sudelity in the team led to fewer miscommunications and more psychological safety.
 
 * **Sudelistic (adjective):** Relating to or expressing principles of Sudelism; exhibiting balance between self and context.<br/>
-“The architecture of the building felt surprisingly Sudelistic — inviting, but never imposing.”
+> The architecture of the building felt surprisingly Sudelistic — inviting, but never imposing.
 
 * **Sudelism (noun):** A framework that names the patterns through which human presence affects shared environments — emphasizing attunement, balance, and the ethical consequences of subtle interaction.
 
