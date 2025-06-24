@@ -146,6 +146,13 @@ These foundational principles guide the Sudelist not as commandments, but as len
 
 ### Guiding Principles of Sudelism
 
+In a world of constant noise and unexamined reflex, ethics too often becomes performance — loud, rigid, and disconnected from lived experience. Sudelism offers a different path: one that begins not with doctrine, but with attention.
+These are not rules, but orientations. They serve as directional anchors in the shifting terrains of social life — where clarity is fragile, familiarity collides, and meaning must be co-created in real time.
+
+Each principle reveals a tension — between what society rewards and what shared space actually requires. By choosing presence over performance, coherence over control, and negotiation over declaration, the Sudelist cultivates environments where people do not have to agree to understand one another — only to attend, to adjust, and to stay human together.
+
+What follows are the guiding principles of Sudelism — not to impose morality, but to refine perception.
+
 1. Relational Presence Over Performative Identity
 
 > We are not what we declare, but how we emerge in relation.
@@ -171,6 +178,31 @@ Sudelism replaces rigid moral laws with a refined sensitivity to context. A beha
 Sudelism holds that emotional resonance matters more than internal motives. You are not judged by what you meant, but by what you produce. Even subtle actions — tones of voice, facial expressions, postures — alter the affective atmosphere. Ethical action means remaining aware of how one’s familiarity reshapes others’ experience, even when unintentional.
 
 You cannot directly will your emotions or the emotions of others into submission — they are emergent properties of your environment. To regulate them is to regulate the environment itself — through exposure, calibration, and contextual design.
+
+5. Quiet Negotiation Over Performative Compromise
+
+> Negotiation begins not between people, but within oneself — in the presence of others.
+
+Sudelism redefines negotiation as an ongoing act of internal calibration — one that happens before speech, beneath posture, and alongside others. It begins with the silent question: “Am I honoring my own familiarities at the expense of others’?”
+
+This inner dialogue creates a reflective space where the individual:
+- Recognizes their own needs,
+- Acknowledges the presence and needs of others,
+- Weighs any potential emergence of chaos.
+
+That is negotiation. Not in the courtroom or the conference room, but in the hallway, the train, the forum, the dinner table, the comment section, the protest.
+
+In a world where power is often asserted through volume — through declaration, confrontation, spectacle — Sudelism offers the opposite:
+- To see implication as a form of respect.
+- To notice the background negotiation that occurs when someone chooses not to correct another, quietly adjusts their behavior, or sacrifices comfort to maintain harmony.
+
+These are not passive gestures. They are Sudelistic negotiations — subtle, intentional, and morally consequential.
+
+To do what is right, even if no one notices.<br/>
+To seek balance, even when no one demands it.<br/>
+To begin with oneself before expecting from others.
+
+This is how Sudelism plants ethical coherence — not through performance, but through presence.
 
 ### Application Scenarios
 
