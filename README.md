@@ -41,43 +41,6 @@ This is not ideology. This is gravity.
 — The Founder
 Sudelist Year One
 
-## Terminology
-
-### Sudel /ˈsuːdəl/
-
-#### Etymology
-
-Derived from the Byzantine Greek word "σοῦδα" (suda), meaning "ditch" or "trench", which later came to mean "fortress". "Sudel" metaphorically represents establishing and maintaining a sense of personal "fortress" (personal boundaries and familiar spaces) within shared spaces, while respecting the "fortresses" of others. It signifies the delicate balance of creating individual comfort without disrupting existing familiarities and expectations. The sound subtly evokes "suitable" and "subtle", reinforcing appropriateness and nuanced consideration.
-
-#### Definitions
-
-* **(Noun):** Actively navigating shared spaces and interactions by skillfully balancing one’s personal needs and preferences with the existing familiarities and expectations of others, fostering mutual understanding and minimizing disruption.
-* **(Adjective):** Characterized by or relating to Sudel; marked by balance, consideration, and mutual respect in shared contexts.
-
-#### Related Words
-
-* **Sudelize (verb):** To practice or implement Sudel.
-* **Sudelist (noun):** A person who practices or advocates for Sudel.
-* **Sudelity (noun):** The state or quality of being Sudel; the practice of maintaining balance and mutual respect in shared contexts.
-* **Sudelistic (adjective):** Relating to or characteristic of Sudel.
-* **Sudelism (noun):** The philosophical system based on Sudel, focusing on dynamic social navigation and balance.
-
-#### Example Sentences
-
-* **(Noun):** "The success of the international summit depended on careful sudel between the delegates’ differing cultural norms."
-* **(Adjective):** "Her sudel approach to conflict resolution ensured that all parties felt heard and understood."
-* **(Sudelist):** "As a dedicated sudelist, she always prioritized the needs of the community while maintaining her own sense of self."
-* **(Sudelize):** "He demonstrated excellent ability to sudelize by adapting his work style to fit the team’s dynamic."
-* **(Sudelity):** "The high level of sudelity within the organization fostered a positive and productive work environment."
-
-#### Usage Notes
-
-"Sudel" emphasizes the active and ongoing nature of balancing individual and collective needs in shared contexts. It implies a conscious and intentional effort to navigate social and physical spaces with consideration and respect. It focuses on the metaphorical "fortresses" of personal space and familiarity.
-
-#### Pronunciation Guide
-* **IPA:** /ˈsuːdəl/
-* **Phonetic respelling:** SUH-dell
-
 ## The Sudelist Manifesto
   
 ### What is Sudelism?
@@ -553,6 +516,52 @@ A traditional Chinese philosophy centered on social harmony, duty to family and 
 ### Conclusion
 
 While Sudelism shares concerns with systems like pragmatism (practical action), situation ethics (contextual awareness), and Confucianism (social harmony), it introduces a fundamentally new ethical center: stabilizing familiar environments without sacrificing autonomy, judged through the lens of systemic emergence rather than isolated actions or feelings. This original focus positions Sudelism as a distinct and timely addition to the philosophical landscape, particularly suited for navigating complex modern environments.
+
+## Lexicon & Etymology
+
+### Sudel /ˈsuːdəl/ — Historical Framing & Applied Usage
+
+**Note:** <br/>
+The following entries reflect the original lexical framing of Sudelism — developed during its earliest stages as a language-first exploration. While the Sudelist Manifesto now offers a more refined conceptual framework, these definitions remain useful for clarifying etymology, grammatical versatility, and contextual application in educational or institutional settings.
+
+#### Etymology
+
+Derived from the Byzantine Greek word “σοῦδα” (suda), meaning “ditch” or “trench”, later connoting “fortress”.
+This evolution metaphorically reflects the process of creating and maintaining a personal “fortress” — a bounded sense of familiarity or comfort — within shared spaces, while simultaneously honoring the fortresses of others.
+
+The term subtly evokes the sound of “suitable” and “subtle”, reinforcing themes of appropriateness, nuance, and contextual awareness.
+
+#### Legacy Definitions
+
+**Sudel (noun)** <br/>
+The subtle act of balancing one’s own familiar ways of being with the familiarities and expectations of others in a shared space — shaping mutual understanding and minimizing dissonance. Sudel is not a static behavior but a perceptual influence: its meaning is revealed through its effect on others’ sense of coherence and safety.
+  
+**Sudel (adjective)** <br/>
+Marked by presence that balances self-expression with environmental attunement; characterized by responsiveness, nuance, and ethical calibration in shared environments.
+
+#### Related Terms
+
+* **Sudelize (verb):** To engage in Sudel-like behavior; to consciously attune one’s presence in ways that stabilize or clarify shared space.<br/>
+“She naturally sudelizes in new environments — never imposing, never disappearing.”
+
+* **Sudelist (noun):** One who practices or embodies Sudelism, marked by sensitivity to how presence influences shared atmospheres.<br/>
+“The facilitator was a true Sudelist — attuned, adaptable, and quietly anchoring the room.”
+
+* **Sudelity (noun):** The quality of ethical presence marked by skilled balancing of one’s own familiarities with those of others.<br/>
+“High Sudelity in the team led to fewer miscommunications and more psychological safety.”
+
+* **Sudelistic (adjective):** Relating to or expressing principles of Sudelism; exhibiting balance between self and context.<br/>
+“The architecture of the building felt surprisingly Sudelistic — inviting, but never imposing.”
+
+* **Sudelism (noun):** A framework that names the patterns through which human presence affects shared environments — emphasizing attunement, balance, and the ethical consequences of subtle interaction.
+
+#### Usage Notes
+
+“Sudel” is not merely a polite behavior or social etiquette. It implies an active and dynamic calibration of presence. To Sudel is to shape a relational atmosphere that fosters clarity without control, and recognition without collapse. It is especially useful in intercultural, interdisciplinary, or pluralistic contexts where implicit norms must be sensed rather than assumed.
+
+#### Pronunciation Guide
+* **IPA:** /ˈsuːdəl/
+* **Phonetic respelling:** SUH-dell
 
 ### Related Disciplinary Fields
 * Neuroscience
