@@ -147,7 +147,7 @@ What follows are the guiding principles of Sudelism — not to impose morality, 
 
 > We are not what we declare, but how we emerge in relation.
 
-Sudelism emphasizes who you are in shared space — not in terms of declared identity or ideology, but through your perceptual influence on others. The Sudelist prioritizes how their presence affects emotional ecology, rather than performing roles for recognition. Ethical presence is measured by the attunement to others, not by self-description.
+Sudelism emphasizes who you are in shared space — not in terms of declared identity or ideology, but through your perceptual influence on others. The Sudelist prioritizes how their presence affects emotional ecology, rather than performing roles for recognition. Ethical presence is measured by the attunement to oneself and others, not by self-description.
 
 2. Coherence Over Control
 
