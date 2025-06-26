@@ -110,7 +110,7 @@ To practice Sudelism is not to obey, but to notice. To respond. And to refine �
 
 #### Sudelist (n.)
 
-A Sudelist is someone who learns to read and respond to the unspoken dynamics of shared space. Not by mastering a system, but by continually refining their sensitivity to how presence affects others.
+A Sudelist is someone who learns to read and respond to the unspoken dynamics of shared space—not by mastering a system, but by continually refining their sensitivity to how their presence affects others and themselves.
 
 The Sudelist does not pursue moral purity, but relational fluency — the ability to participate in complex environments without dominating or withdrawing, without imposing uniformity or losing oneself.
 
