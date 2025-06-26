@@ -159,7 +159,7 @@ Rather than imposing order or expecting agreement, the Sudelist seeks coherence 
 
 > There is no universal right behavior — only contextual resonance.
 
-Sudelism replaces rigid moral laws with a refined sensitivity to context. A behavior is not good because it follows a rule, but because it maintains or restores perceptual balance in a particular environment. It is unethical to forcibly assert one’s own norms at the expense of others’ familiarity — especially when it destabilizes more than it harmonizes. This includes the subtle violence of reorienting environments to suit oneself without attending to the disorientation imposed on others.
+Sudelism replaces rigid moral laws with a refined sensitivity to context. A behavior is not good because it follows a rule, but because it maintains or restores perceptual balance in a particular environment. It is unethical to forcibly assert one’s own norms at the expense of others’ familiarity — especially when it destabilizes more than it harmonizes. This includes the subtle disruption of reorienting environments to suit oneself without attending to the disorientation imposed on others.
 
 4. Emotional Ecology Over Intentional Purity
 
