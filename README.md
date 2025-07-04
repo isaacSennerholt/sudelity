@@ -444,6 +444,9 @@ While Sudelism shares concerns with systems like pragmatism (practical action), 
 
 ## The Limits of Scripted Ethics in Light of Sudelism
 
+### Framing Note
+This essay explores how Sudelism responds to a recurring ethical pattern in many moral frameworks: the tendency for appearance to be mistaken for sincerity, and for performance to substitute presence.
+
 In shared moral systems — whether religious, secular, or cultural — a subtle tension often arises. It’s the tension between appearance and reality, between transformation and performance.
 
 Some individuals learn to master the language of virtue without embodying its substance. They speak the right words, perform the right gestures, and project a version of love or humility that resonates outwardly. But beneath this choreography, their presence destabilizes — quietly recentering attention, creating confusion, or displacing mutual trust.
@@ -493,7 +496,7 @@ It doesn’t ask, “Are you aligned with the ideal?” It asks:
 
 Some may attempt to mimic Sudelistic awareness — by mirroring, affirming, or tracking others’ discomfort with careful attentiveness. But if one’s own boundaries, unfamiliarities, or discomforts are never offered in return, the balance becomes distorted. What looks like care becomes concealment.
 
-True Sudelism is not passive accommodation. It is mutual attunement. It calls for gentle offering, honest presence, and shared responsibility.
+True Sudelism is not passive accommodation. It is mutual attunement — a dynamic giving and receiving. It calls for gentle offering, honest presence, and shared responsibility.
 
 One of the clearest signs of Sudelistic behavior is the introduction of unfamiliarity — not as imposition, but as invitation. A new perspective, a personal boundary, a discomfort respectfully named. These signals of divergence are not disruptions — they are evidence of trust, and of active participation in the work of balance.
 
