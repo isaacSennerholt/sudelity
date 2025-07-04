@@ -378,7 +378,7 @@ In a world increasingly shaped by performative identities, Sudelism offers somet
 
 It invites us to become less fluent in moral language and more fluent in moral presence. Less concerned with what is declared, and more aware of what is shared.
 
-And perhaps that is the deeper remedy—not only to manipulation, but to the quiet emptiness that performance so often conceals.
+And perhaps that is the deeper remedy—not only to manipulation, but to the quiet misalignment that performance so often conceals.
 
 ## Sudelism Metaethics
 
