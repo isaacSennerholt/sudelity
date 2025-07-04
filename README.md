@@ -1,4 +1,4 @@
-# Sudelism Compendium
+# Sudelism Compendium – A Living Document
 
 <code>Main contributors: Isaac Sennerholt</code>
 
