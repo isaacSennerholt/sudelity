@@ -331,7 +331,7 @@ Meanwhile, the questions that matter most to shared stability — whether that p
 
 ### When Acceptance Becomes Evasion
 
-At the same time, many moral frameworks promote deep compassion and non-judgment. “Judge not,” “we all fall short,” “forgive without limit.” These teachings can anchor humility — but without contextual discernment, they can also suppress accountability.
+At the same time, many moral frameworks promote unconditional compassion and non-judgment. “Judge not,” “we all fall short,” “forgive without limit” — these teachings can foster humility. But without attentiveness to context, they risk shielding destabilizing behavior from necessary discernment.
 
 When someone repeatedly destabilizes others while cloaked in moral language, communities often hesitate to respond. To name the pattern risks being seen as unloving or self-righteous. In these moments, the structure begins to protect dysfunction. Performance is mistaken for transformation. And language becomes a shield against critique.
 
