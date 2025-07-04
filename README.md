@@ -327,7 +327,7 @@ When engaged with sincerity, these structures can be transformative. But they al
 
 For those practiced in managing perception or controlling others, the structure becomes a script. As long as it’s followed — quoting the right teachings, attending the right gatherings, expressing the right sentiments — belonging and credibility remain intact.
 
-Meanwhile, the deeper questions — Does this person foster balance? Are they contributing to mutual understanding? Do others feel more or less coherent in their presence? — are often lost beneath layers of performance.
+Meanwhile, the more consequential questions — whether that person is fostering balance, sincerity, and mutual respect — can get lost beneath layers of well-rehearsed virtue.
 
 ### When Acceptance Becomes Evasion
 
