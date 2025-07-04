@@ -364,7 +364,7 @@ True Sudelism is not passive accommodation. It is active mutuality. It requires 
 
 In fact, one of the clearest signs that someone is truly practicing Sudelism is when they introduce unfamiliar elements into the shared space: a new way of seeing, a discomfort of their own, a personal boundary or need. These moments of respectful divergence—when handled with care—signal that the person is not merely performing harmony, but participating in the real work of balance.
 
-In this way, Sudelism becomes inherently resistant to performative morality. It replaces static rules with a living ethic—one that requires the friction of respectful difference to evaporate the illusion of harmony which, if preserved, ultimately disrupts the very illusion of balance it seeks to protect.
+In this way, Sudelism becomes inherently resistant to performative morality. It replaces static rules with a living ethic—one that requires the friction of respectful difference to evaporate the illusion of harmony which, if preserved, ultimately disrupts the very illusion of balance it seeks to instill.
 
 ### A Living Ethic, Not a Moral Identity
 
