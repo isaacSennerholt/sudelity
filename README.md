@@ -38,9 +38,6 @@ Sudelism is not an escape from difference. It is a method for inhabiting it — 
 
 This is not ideology. This is gravity.
 
-— The Founder
-Sudelist Year One
-
 ## The Sudelist Manifesto
   
 ### What is Sudelism?
