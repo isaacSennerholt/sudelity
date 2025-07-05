@@ -366,7 +366,7 @@ Instead, Sudelism can function as an interpretive and evaluative layer — a way
 - Increasing or decreasing relational burden
 - Stabilizing or destabilizing shared environments
 - Shifting adaptation unfairly onto others
-- Performing ethics by participating in shared balance
+- Contributing to sustained balance in shared environments
 
 A Sudelistic system doesn’t “do good.” It doesn’t “follow norms.”
 > It listens to the environment it enters, and acts in a way that sustains balance without imposition.
