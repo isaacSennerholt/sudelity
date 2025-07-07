@@ -580,7 +580,7 @@ There is no “Sudelist” way to speak. There is only the invitation to remain 
 
 ### Why Control Strategies Fail in Sudelistic Environments
 
-Individuals who rely on charm, impression management, or emotional leverage often find Sudelistic environments disorienting. Not because they are unwelcome — but because there isn’thing to mimic.
+Individuals who rely on charm, impression management, or emotional leverage often find Sudelistic environments disorienting. Not because they are unwelcome — but because there is nothing to mimic.
 
 There is no passcode of belonging. No gesture that ensures safety. No universal script to adopt.
 

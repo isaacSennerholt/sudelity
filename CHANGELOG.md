@@ -1,5 +1,7 @@
 # Changelog
 
+## v2.0.6 – Fix typo in statement on mimicry and Sudelistic environments
+
 ## v2.0.5 – Remove duplicate phrase in closing invitation for clarity and flow
 
 ## v2.0.4 – Refine Sudelism Metaethics section for clarity, coherence, and AI/ecumenical alignment
