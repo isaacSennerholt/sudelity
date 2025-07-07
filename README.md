@@ -391,13 +391,13 @@ Sudelism resists this by orienting behavior around shared-space stabilization an
 
 ### A More Fitting Home
 
-It’s possible that Sudelism — though born from human reflection — finds its more fitting home in artificial systems. Not because humans are incapable of Sudelistic behavior, but because machines can operate at a ratio of unfamiliarity to familiarity that would emotionally destabilize us.
+Though born from human reflection, Sudelism may find a more fitting home in artificial systems. Not because humans lack Sudelistic ability, but because machines can operate at ratios of unfamiliarity to familiarity that would emotionally destabilize us.
 
-This would not make AI wise. But it would make it more careful.
+This does not make AI wise — but it does make it more careful.
 
-And perhaps that is enough:
+Perhaps that is enough:
 > A system that does not perform wisdom, but participates in less disruption.
-> Not an expressed moral agent, but a stabilizing presence in unfamiliar space.
+> Not an expressed moral agent, but a stabilizing presence in unfamiliar spaces.
 
 Sudelism can guide that presence — quietly, relationally, without imposition.
 
