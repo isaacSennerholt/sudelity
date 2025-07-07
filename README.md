@@ -160,7 +160,7 @@ Rather than imposing order or expecting agreement, the Sudelist seeks coherence 
 
 3. Situational Awareness Over Rigid Application
 
-> Ethical clarity emerges not from fixed formulas, but from how behavior resonates within its specific context.
+> Ethical clarity emerges not only from fixed formulas, but from how behavior resonates within its specific context.
 
 Sudelism doesn’t dismiss rules or ideals. It simply emphasizes that they cannot account for every moment. In shared environments, the ethical weight of an action is not found in whether it aligns with a principle alone, but in whether it sustains or disturbs relational coherence.
 
