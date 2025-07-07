@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.0.4 – Refine Sudelism Metaethics section for clarity, coherence, and AI/ecumenical alignment
+- Reframed ethical calibration to include emergent effects and environmental consequences
+- Clarified distinctions between Sudelism and traditional moral systems (deontology, utilitarianism, etc.)
+- Emphasized Sudelism’s ecumenical compatibility and non-impositional stance
+- Strengthened language on subtlety, perceptual ethics, and relational presence
+- Polished conclusion to support AI alignment and Constitutional integration
+
 ## v2.0.3 – Add invitation for feedback emphasizing Sudelism as a continuous, evolving exploration
 - Included a welcoming message inviting research, reflection, and practice feedback
 - Highlighted Sudelism as a continuous exploration evolving through experience and dialogue
