@@ -158,11 +158,15 @@ Sudelism emphasizes who you are in shared space — not in terms of declared ide
 
 Rather than imposing order or expecting agreement, the Sudelist seeks coherence — a felt clarity in shared environments where differences can coexist without disintegration. Control often fractures subtle balances; coherence holds space for multiplicity. The ethical actor does not seek to win but to understand the frame within which everyone can meaningfully participate.
 
-3. Situational Awareness Over Absolutism
+3. Situational Awareness Over Rigid Application
 
-> There is no universal right behavior — only contextual resonance.
+> Ethical clarity emerges not from fixed formulas, but from how behavior resonates within its specific context.
 
-Sudelism replaces rigid moral laws with a refined sensitivity to context. A behavior isn’t good because it follows a rule, but because it maintains or restores perceptual balance in a particular environment. It’s unethical to forcibly assert one’s own norms at the expense of others’ familiarity — especially when it destabilizes more than it harmonizes. This includes the subtle disruption of reorienting environments to suit oneself without attending to the disorientation imposed on others.
+Sudelism doesn’t dismiss rules or ideals. It simply emphasizes that they cannot account for every moment. In shared environments, the ethical weight of an action is not found in whether it aligns with a principle alone, but in whether it sustains or disturbs relational coherence.
+
+Sudelism orients attention toward how presence affects perception — how even well-meaning behavior can become disruptive when removed from context. To impose one’s own norms without attending to the surrounding atmosphere is to risk disorientation in others.
+
+This includes subtle acts: reorienting environments to suit one’s own familiarity, speaking truths without sensing readiness, or performing sincerity in ways that overwhelm. Attunement does not mean avoidance — it means acting with precision, aware of the ripple each gesture may carry.
 
 4. Emotional Ecology Over Intentional Purity
 
