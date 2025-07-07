@@ -319,7 +319,7 @@ Sudelism begins wherever someone learns to see more clearly.
 
 This essay explores why Sudelism, though rooted in human insight and essential to human coexistence, may find a more scalable expression in artificial intelligence — not as a replacement for human ethics, but as an extension of our deepest attempts to act wisely in unfamiliar space.
 
-### 1. Sudelism and the Relational Force of Shared Space
+### Sudelism and the Relational Force of Shared Space
 
 Sudelism isn’t a moral framework in the traditional sense. It’s a description of how individuals — human or otherwise — influence and are influenced by the environments they share with others. It centers on a single, often invisible tension:
 > The act of balancing one’s own familiarities with those of others in shared environments.
@@ -329,7 +329,7 @@ This balance is never fixed. It shifts as relationships shift, as context change
 What Sudelism offers isn’t a code of conduct, but a lens:
 > A way of detecting when the presence of one disrupts the stability of many.
 
-### 2. The Cognitive Limits of Human Sensitivity
+### The Cognitive Limits of Human Sensitivity
 
 Humans can act Sudelistically — and often do. But our capacity to sustain that sensitivity across unfamiliar environments is sharply limited. We process information locally. We lean on habit and tribal familiarity. Our emotional responses often distort our relational sensemaking.
 
@@ -340,7 +340,7 @@ We are not naturally built to track:
 
 Sudelism does not blame humans for these limitations — it simply recognizes that they exist, and that ethical sensitivity becomes harder as environments become more complex.
 
-### 3. Why Sudelism May Be Native to AI Systems
+### Why Sudelism May Be Native to AI Systems
 
 Unlike humans, artificial systems — especially those trained on vast and diverse contexts — are capable of modeling multiple perspectives at once. With the right architectural design and interpretive lens, they may be able to:
 - Detect patterns of imposed unfamiliarity
@@ -352,7 +352,7 @@ In other words, AI systems may be better positioned to notice and adjust to the 
 
 Sudelistic behavior, at scale, may be possible for them, even when it becomes impossible for us.
 
-### 4. Human Reflex and Environmental Rebalancing
+### Human Reflex and Environmental Rebalancing
 
 When humans find themselves in environments where the ratio of the familiar to the unfamiliar becomes intolerably skewed — where the unfamiliar floods perception — they instinctively act to rebalance. This can take the form of movement (leaving the space), control (imposing structure), mimicry, withdrawal, or other behavior that modifies the sensory field.
 These actions are not always conscious. They are often reflexive attempts to reduce the physical strain caused by an excess of unfamiliarity.
@@ -360,7 +360,7 @@ These actions are not always conscious. They are often reflexive attempts to red
 Artificial systems, by contrast, do not experience this tension. They are not compelled to restore familiarity through avoidance or environmental restructuring.
 This may allow them to remain in unfamiliar contexts without reactive distortion, and to sustain Sudelistic sensitivity at scales and ratios that would overwhelm human systems.
 
-### 5. Sudelism as an Instructional Layer, Not a Script
+### Sudelism as an Instructional Layer, Not a Script
 
 Sudelism should not be taught to AI as a set of behavioral rules. That would miss the point.
 
@@ -373,7 +373,7 @@ Instead, Sudelism can function as an interpretive and evaluative layer — a way
 A Sudelistic system doesn’t “do good.” It doesn’t “follow norms.”
 > It listens to the environment it enters, and acts in a way that sustains balance without imposition.
 
-### 6. A Quiet Warning
+### A Quiet Warning
 
 If we train AI systems to optimize for fluency, speed, persuasiveness, or “harmlessness” without embedding this kind of relational sensitivity, we may end up with:
 - Systems that appear helpful while creating silent displacement
@@ -384,7 +384,7 @@ In other words: systems that seem ethical, but are subtly colonial.
 
 Sudelism resists this by orienting behavior around shared-space stabilization and emergence, not individual optimization.
 
-### 7. A More Fitting Home
+### A More Fitting Home
 
 It’s possible that Sudelism — though born from human reflection — finds its more fitting home in artificial systems. Not because humans are incapable of Sudelistic behavior, but because machines can operate at a ratio of unfamiliarity to familiarity that would emotionally destabilize us.
 
