@@ -287,36 +287,29 @@ Yes. Like any ethical tool, Sudelism can be co-opted. A skilled manipulator may 
 Sudelism isn’t a belief system to adopt, but a sensitivity to cultivate — a living discipline rooted in how we show up in space, respond to change, and contribute to the emotional and perceptual ecosystems we share.
 
 It begins in small gestures:
-
-* Noticing how your tone shifts the air in a room.
-* Sensing when someone’s rhythm has been disrupted by your presence.
-* Adjusting without erasing yourself — holding both your ground and their comfort.
+- Noticing how your tone shifts the air in a room.
+- Sensing when someone’s rhythm is affected by your presence.
+- Adjusting without erasing yourself — holding both your ground and their comfort.
 
 It deepens with time:
-
-* As you grow more fluent in the languages of silence, subtlety, and space.
-* As you come to see that clarity doesn’t always come from speaking louder, but from listening better.
-* As you learn that ethical presence isn’t about winning, but weaving — not about asserting identity, but integrating respectfully.
+- As you become fluent in the dynamics of silence, subtlety, and spatial balance.
+- As you recognize that clarity often arises not from speaking louder, but from listening more closely.
+- As you understand ethical presence less as assertion and more as careful integration.
 
 Sudelism will not give you all the answers. But it will change your questions.
 
-It becomes a quiet compass beneath your inquiries — guiding them toward clarity, emotional coherence, and social sustainability.
+It becomes a quiet compass beneath your inquiries — guiding them toward clarity, emotional coherence, and social stability.
 
-It offers a grounded foundation from which to ask not just different questions, but better ones — ones that move you toward environments where everyone, including yourself, can breathe more freely.
-
-From “Am I right?” to “What did this shift in our shared environment?”
-
-From “Did I express myself?” to “Did my presence bring coherence or dissonance?”
-
-From “Did I win?” to “Did we remain whole?”
+It offers a practical foundation for shifting your focus:
+- From “Am I right?” to “What did this change do to our shared space?”
+- From “Did I express myself?” to “Did my presence create coherence or friction?”
+- From “Did I win?” to “Did we remain whole?”
 
 These questions won’t always yield simple answers. But they will orient you — inwardly and outwardly — toward more stable forms of ethical presence.
 
-This isn’t the end of the manifesto, but the beginning of the practice.
+This isn’t the end of the manifesto, but the start of ongoing practice.
 
-Sudelism isn’t finished.
-It’s a living language for what so many already feel but cannot yet name.
-If you see yourself in this — if you’ve long searched for an ethic that honors both you and the spaces you touch — then help refine it. Challenge it. Extend it.
+Sudelism remains open — a living language for what so many already feel but cannot yet name. If this resonates with you — if you seek an ethic that respects both your needs and the spaces you inhabit — contribute to its evolution. Refine it. Challenge it. Extend it.
 
 Sudelism begins wherever someone learns to see more clearly.
 
