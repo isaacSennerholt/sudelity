@@ -107,7 +107,7 @@ Sudelism isn’t a philosophy in the traditional sense, but a description of a c
 
 To Sudelize is to participate consciously in the constant shaping of shared experience — adjusting presence in ways that sustain mutual legibility and respect. Sudelism doesn’t impose rules; it clarifies the contours of influence we already navigate.
 
-Rather than offering prescriptions, Sudelism provides a lens: one that sharpens our ability to perceive how subtle actions — silence, tone, posture, timing — affect the unfolding atmosphere. It trains ethical precision not by decree, but by awareness.
+Rather than offering prescriptions, Sudelism provides a lens — one that sharpens our ability to perceive how presence shapes shared experience. It brings attention to the ongoing act of balancing what’s familiar to oneself with what’s familiar to others — through language, movement, timing, tone, silence, and more. It trains ethical precision not by decree, but through awareness.
 
 To practice Sudelism isn’t to obey, but to notice. To respond. And to refine — again and again.
 
