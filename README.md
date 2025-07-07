@@ -81,7 +81,7 @@ It begins with the act of Sudelity — the ongoing balancing of one’s own fami
 It’s not a destination, but a discipline.
 One that cannot be mastered — only refined.
 
-Sudelism isn’t the answer, but a dynamic lens in which contextual answers might unfold.
+It’s not the answer, but a dynamic lens in which contextual answers might unfold.
 
 ### Core Concept – Sudel behaviors
 
