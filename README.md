@@ -133,7 +133,7 @@ Sudelity isn’t a destination, but a practice — alive in attention, made real
 
 Sudelism emerges from a simple but profound observation: we do not exist in isolation. Every act, word, and movement occurs within a shared perceptual field — a space shaped not just by our intentions, but by the presence and sensitivities of others. In these shared environments, coherence isn’t given; It’s co-created.
 
-To Sudelize is to take responsibility for one’s influence within this co-creative space — not through submission or self-erasure, but through attunement. Sudelism rejects absolutist ethics that rely on static rules or detached ideals. Instead, it embraces an ethics of emergence, where moral clarity is revealed through situational awareness, perceptual sensitivity, and adaptive presence.
+To Sudelize is to take responsibility for one’s influence within this co-creative space — not through submission or self-erasure, but through attunement. Sudelism doesn’t aim to replace fixed rules or ideals. It orients attention toward how ethical clarity can be supported by situational awareness, perceptual sensitivity, and adaptive presence.
 
 These foundational principles guide the Sudelist not as commandments, but as lenses — flexible modes of ethical perception that cultivate relational harmony without sacrificing individuality.
 
