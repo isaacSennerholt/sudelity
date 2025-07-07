@@ -589,8 +589,8 @@ It does not ask, “Do you align with our values?” — it asks:
 
 Even efforts to mimic attunement — through affirmation, mirroring, or “reading the room” — become evident over time if no reciprocal unfamiliarity is offered. When presence becomes purely adaptive, rather than participatory, the balance begins to erode. The space may remain polite, even warm on the surface — but beneath it, coherence unravels.
 
-What seems like harmony slowly becomes avoidance.<br/>
-What seems like care becomes concealment.<br/>
+What seems like harmony slowly becomes avoidance.
+What seems like care becomes concealment.
 What seems like belonging becomes self-preservation.
 
 Over time, this asymmetry gives rise to chaotic emergence:
@@ -609,8 +609,8 @@ but because shared balance cannot be sustained without honest participation.
 
 Sudelism isn’t a shield against failure. It makes no claim to moral completion. It simply grounds ethics in co-navigation — not outcomes, not ideals, not declarations.
 
-There is no stage.<br/>
-No ritual safety.<br/>
+There is no stage.
+No ritual safety.
 No audience to perform for.
 
 There is only the atmosphere being shaped — and those who are now breathing it.
@@ -706,13 +706,9 @@ Whether personal or institutional, the question is the same:
 Sudelism begins not with outcome, but with orientation.
 
 ### Final Line
-Sudelism begins not with principle,<br/>
-but with perception.<br/>
-Not with outcomes,<br/>
-but with atmosphere.<br/>
-Not with systems,<br/>
-but with shared space —<br/>
-and the unseen futures we co-create.
+Sudelism begins not with principle, but with perception.
+Not with outcomes, but with atmosphere.
+Not with systems, but with shared space — and the unseen futures we co-create.
 
 ## Lexicon & Etymology
 
@@ -738,16 +734,16 @@ Marked by presence that balances self-expression with environmental attunement; 
 
 #### Related Terms
 
-* **Sudelize (verb):** To engage in Sudel-like behavior; to consciously attune one’s presence in ways that stabilize or clarify shared space.<br/>
+* **Sudelize (verb):** To engage in Sudel-like behavior; to consciously attune one’s presence in ways that stabilize or clarify shared space.
 > She naturally sudelizes in new environments — never imposing, never disappearing.
 
-* **Sudelist (noun):** One who practices or embodies Sudelism, marked by sensitivity to how presence influences shared atmospheres.<br/>
+* **Sudelist (noun):** One who practices or embodies Sudelism, marked by sensitivity to how presence influences shared atmospheres.
 > The facilitator was a true Sudelist — attuned, adaptable, and quietly anchoring the room.
 
-* **Sudelity (noun):** The quality of ethical presence marked by skilled balancing of one’s own familiarities with those of others.<br/>
+* **Sudelity (noun):** The quality of ethical presence marked by skilled balancing of one’s own familiarities with those of others.
 > High Sudelity in the team led to fewer miscommunications and more psychological safety.
 
-* **Sudelistic (adjective):** Relating to or expressing principles of Sudelism; exhibiting balance between self and context.<br/>
+* **Sudelistic (adjective):** Relating to or expressing principles of Sudelism; exhibiting balance between self and context.
 > The architecture of the building felt surprisingly Sudelistic — inviting, but never imposing.
 
 * **Sudelism (noun):** A framework that names the patterns through which human presence affects shared environments — emphasizing attunement, balance, and the ethical consequences of subtle interaction.
