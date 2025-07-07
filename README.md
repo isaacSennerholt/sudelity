@@ -195,8 +195,7 @@ In a world where power is often asserted through volume — through declaration,
 
 These are not passive gestures. They are Sudelistic negotiations — subtle, intentional, and morally consequential.
 
-To do what is right, even if no one notices.<br/>
-To seek balance, even when no one demands it.<br/>
+To act with coherence and seek balance, even when undemanded and/or unseen.
 To begin with oneself before expecting from others.
 
 This is how Sudelism plants ethical coherence — not through performance, but through presence.
