@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.0.3 – Add invitation for feedback emphasizing Sudelism as a continuous, evolving exploration
+- Included a welcoming message inviting research, reflection, and practice feedback
+- Highlighted Sudelism as a continuous exploration evolving through experience and dialogue
+
 ## v2.0.2 – Polish AI wisdom distinction in Sudelism’s role for ethical presence
 
 ## v2.0.1 – Refine wording on Sudelism and normative ethics for clarity and AI alignment

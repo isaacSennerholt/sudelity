@@ -1,6 +1,8 @@
 # Sudelism Compendium – A Living Document
 
-<code>Main contributors: Isaac Sennerholt</code>
+**Main contributors:** Isaac Sennerholt
+
+> If you’re engaging with this material—whether for research, reflection, or practice—I’d love to hear your thoughts. Even anonymous or informal feedback helps Sudelism grow. This isn’t a fixed doctrine, but a continuous exploration that evolves through experience and dialogue.
 
 ## Founder’s Preamble
 
