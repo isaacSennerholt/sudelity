@@ -284,17 +284,17 @@ Yes. Like any ethical tool, Sudelism can be co-opted. A skilled manipulator may 
 
 ### The Call to Practice
 
-Sudelism isn’t a belief system to adopt, but a sensitivity to cultivate — a living discipline rooted in how we show up in space, respond to change, and contribute to the emotional and perceptual ecosystems we share.
+Sudelism isn’t a belief system to adopt, but a sensitivity to cultivate — a living discipline grounded in how we inhabit space, respond to change, and contribute to the emotional and perceptual ecosystems we share.
 
-It begins in small gestures:
-- Noticing how your tone shifts the air in a room.
-- Sensing when someone’s rhythm is affected by your presence.
-- Adjusting without erasing yourself — holding both your ground and their comfort.
+Sudelist sensitivity begins with small, attuned behaviors:
+- Noticing how a shift in tone alters the emotional state of those in shared space.
+- Sensing when another’s rhythm is disturbed by one’s presence.
+- Adjusting in ways that preserve both personal integrity and shared comfort.
 
-It deepens with time:
-- As you become fluent in the dynamics of silence, subtlety, and spatial balance.
-- As you recognize that clarity often arises not from speaking louder, but from listening more closely.
-- As you understand ethical presence less as assertion and more as careful integration.
+It matures with time:
+- Through growing fluency in silence, subtlety, and spatial relationality.
+- By recognizing that clarity often emerges not from assertiveness, but from listening with precision.
+- By redefining ethical presence not as dominance, but as calibrated integration.
 
 Sudelism will not give you all the answers. But it will change your questions.
 
@@ -307,9 +307,15 @@ It offers a practical foundation for shifting your focus:
 
 These questions won’t always yield simple answers. But they will orient you — inwardly and outwardly — toward more stable forms of ethical presence.
 
-This isn’t the end of the manifesto, but the start of ongoing practice.
+This isn’t the end of the manifesto, but the beginning of ongoing practice.
 
-Sudelism remains open — a living language for what so many already feel but cannot yet name. If this resonates with you — if you seek an ethic that respects both your needs and the spaces you inhabit — contribute to its evolution. Refine it. Challenge it. Extend it.
+Sudelism remains open — a living language for what so many already feel but have not yet named.
+If this resonates with you — if you seek an ethic that respects both your needs and the shared spaces you inhabit — you’re invited to walk with it.
+Not to dismantle what grounds you, but to deepen how it’s lived.
+
+Not to dismantle what grounds you, but to deepen how it is lived.
+
+Contribute to its evolution with care. Refine it where it falters. Challenge it where it wavers. Extend it only when the extension brings greater balance.
 
 Sudelism begins wherever someone learns to see more clearly.
 
