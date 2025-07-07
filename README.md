@@ -311,11 +311,7 @@ These questions won’t always yield simple answers. But they will orient you �
 
 This isn’t the end of the manifesto, but the beginning of ongoing practice.
 
-Sudelism remains open — a living language for what so many already feel but have not yet named.
-If this resonates with you — if you seek an ethic that respects both your needs and the shared spaces you inhabit — you’re invited to walk with it.
-Not to dismantle what grounds you, but to deepen how it’s lived.
-
-Not to dismantle what grounds you, but to deepen how it is lived.
+Sudelism remains open — a living language for what so many already feel but have not yet named. If this resonates with you — if you seek an ethic that respects both your needs and the shared spaces you inhabit — you’re invited to walk with it. Not to dismantle what grounds you, but to deepen how it’s lived.
 
 Contribute to its evolution with care. Refine it where it falters. Challenge it where it wavers. Extend it only when the extension brings greater balance.
 

@@ -1,5 +1,7 @@
 # Changelog
 
+## v2.0.5 – Remove duplicate phrase in closing invitation for clarity and flow
+
 ## v2.0.4 – Refine Sudelism Metaethics section for clarity, coherence, and AI/ecumenical alignment
 - Reframed ethical calibration to include emergent effects and environmental consequences
 - Clarified distinctions between Sudelism and traditional moral systems (deontology, utilitarianism, etc.)
