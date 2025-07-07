@@ -32,7 +32,7 @@ Sudelism reveals the background patterns:
 
 You don’t have to believe in it. You are already moving within it — in every entryway, every delay, every word that lands too hard or too soft.
 
-This compendium is not a formal system. It is a first attempt to name what many already feel.
+This compendium is not a formal system. It is a first attempt to name, in simple language, what many might already feel.
 Not an endpoint — but a surface others can refine, challenge, and extend.
 
 I do not write this as someone who always succeeds at what Sudelism describes. I still fail in my response. But I now understand the underlying dynamic. And in that, I’ve learned to move differently — not with performance, but with attention. Not to manage space, but to balance it.
