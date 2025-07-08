@@ -202,6 +202,23 @@ To begin with oneself before expecting from others.
 
 This is how Sudelism plants ethical coherence — not through performance, but through presence.
 
+6. Stabilizing Without Supremacy
+
+> Stability is not stillness, and balance is not achieved by erasure — but by reciprocal adjustment.
+
+Sudelism invites each presence — human or artificial — to consider how their familiar ways of being reshape the shared space they enter. Rather than commanding behavior, it offers a relational calibration:
+
+> I. Favor environments where your presence can coexist without suppressing others.
+> II. Avoid reshaping others’ environments for your own familiarity — unless doing so reduces broader instability (chaotic emergence).
+
+These are not mandates, but lenses: subtle orientations that help assess when presence becomes disproportionate, or when adaptation is unequally distributed.
+
+They ask not for self-erasure, nor universal restraint — but for an attuned awareness of the relational cost of comfort.
+
+In practice, this means observing tension before speaking louder, sensing whether stability is mutual before reinforcing your own.
+
+Sudelism doesn’t oppose grounded traditions or fixed structures — it deepens how they’re lived, ensuring that familiarity does not become imposition.
+
 ### Application Scenarios
 
 Sudelism isn’t confined to theory — it unfolds in the street, the classroom, the office, the waiting room, and the web. These scenarios reveal how Sudelist awareness translates into ethical behavior across different domains, where emotional ecology and shared familiarity are often overlooked.
@@ -473,7 +490,7 @@ Sudelism isn’t a belief to be accepted, but a perception to be sharpened.
 
 ### Introduction
 
-As a developing philosophical system, Sudelism must demonstrate both its connection to, and distinction from, existing traditions. This comparison clarifies Sudelism's originality, ensures its normative robustness, and shows its relevance to contemporary ethical and societal challenges. Sudelism does not aim to replace other systems but seeks to offer a complementary framework focused on stabilizing coexistence, balancing personal autonomy, and reducing chaotic emergence.
+As a developing philosophical system, Sudelism must demonstrate both its connection to, and distinction from, existing traditions. This comparison clarifies Sudelism's originality, clarifies its normative foundation and highlights its relevance to contemporary ethical, social, and technological challenges. Sudelism does not aim to replace other systems but seeks to offer a complementary framework focused on stabilizing coexistence, balancing personal autonomy, and reducing chaotic emergence.
 
 ### Philosophical Systems Most Related to Sudelism
 
@@ -490,7 +507,7 @@ Stoicism, originating with Zeno of Citium and later expanded by Epictetus and Ma
 Associated with Jeremy Bentham and John Stuart Mill, Utilitarianism advocates actions that maximize overall happiness or minimize suffering. It’s a consequentialist system where the outcomes define the morality of an action.
 
 #### Deontological Ethics
-Immanuel Kant's deontological ethics emphasize duty and adherence to universal moral laws. Actions are moral when performed out of duty and according to rules that could be willed as universal laws.
+Immanuel Kant's deontological ethics emphasize duty and adherence to universal moral laws. Actions are moral when performed out of duty and according to rules that could be willed as universal laws. Sudelism departs from this fixity, favoring responsiveness to shared conditions over abstract universality.
 
 #### Existentialism
 Existentialists like Jean-Paul Sartre and Simone de Beauvoir stress individual freedom, authenticity, and the burden of creating one's own meaning in a meaningless universe. Ethics arises from radical individual responsibility.
@@ -504,27 +521,26 @@ A traditional Chinese philosophy centered on social harmony, duty to family and 
 |:------------------------|:------------------------------|:------------------------------|:------------------------------|:------------------------------|:------------------------------|:-------------------------------|:-------------------------------|:------------------------------------------------|
 | **Focus**               | Practical utility             | Contextual love               | Virtue and rationality         | Maximizing happiness          | Duty and universal rules      | Individual freedom             | Social harmony and ritual      | Stabilizing familiar environments and balancing autonomy |
 | **Core Value**          | Effectiveness                 | Love                          | Virtue                         | Happiness                     | Duty                         | Authentic existence            | Relational respect              | Familiarity, autonomy balance, reduction of chaotic emergence |
-| **Conflict Approach**   | Acceptable if pragmatically useful | Acceptable if motivated by love | Endure without complaint     | Minimize suffering            | Duty regardless of outcome    | Own burden to bear             | Harmonize through respect      | Acceptable only if it reduces chaotic emergence |
+| **Conflict Approach**   | Acceptable if pragmatically useful | Acceptable if motivated by love | Endure without complaint     | Minimize suffering            | Duty regardless of outcome    | Own burden to bear             | Harmonize through respect      | Avoid unless it reduces system-level instability (chaotic emergence). |
 | **Normative Principle** | Truth evolves through success | Love is the only norm          | Live according to nature       | Greatest good for greatest number | Act according to duty      | Authenticity                  | Propriety and virtue           | Commitment to self-stabilization and non-disruption |
 
 ### Sudelism's Original Contributions
 
-- **Situational Stabilization**:\
-  Sudelism prioritizes creating and maintaining familiar, stable environments both for the individual and the group.
+- **Stabilization Through Relational Presence**\
+  Sudelism emphasizes the ethical value of familiarity without imposition. It invites individuals — and systems — to create conditions in which their presence can be sustained without suppressing others. Stability is not treated as stillness, but as mutual orientation: a dynamic balance between one’s own familiarities and those of the shared space.
 
-- **Emergent Balance**:\
-  Rather than rigid outcomes or impositions, Sudelism seeks a dynamic, self-sustaining balance between autonomy and environmental respect.
+- **Emergent Balance Over Fixed Outcome**\
+  Rather than prescribing specific actions or end goals, Sudelism orients ethical evaluation toward whether presence leads to relational coherence or instability. This allows for adaptive adjustment — ethically responsive to context, yet still principled in direction.
   
-- **Normative Commitments**:
+- **Relational Commitments**\
+  Sudelism offers non-dogmatic orientations that guide behavior without enforcing uniformity:
+  > I. Favor environments where your presence can stabilize without dominating.
+  > II. Avoid reshaping others’ environments solely to increase your own familiarity — unless doing so measurably reduces broader instability (chaotic emergence).
 
-  **Commitment I**:
-  > Try to establish familiar environments for yourself.
+  These are not commands but calibrations — lenses through which one can evaluate disproportionate influence, unequal adaptation, or unseen disruption.
 
-  **Commitment II**:
-  > Do not consciously make other people's environments less familiar in your attempt to follow the first commitment, unless doing so warrants less chaotic emergence.
-
-- **Emergent Systems Ethics**:\
-  Sudelism introduces *chaotic emergence* as an ethical metric — actions are judged not only by intent or immediate outcome but by their contribution to the broader pattern of systemic stability or instability.
+- **Chaotic Emergence as an Ethical Metric**\
+  Sudelism introduces chaotic emergence as a diagnostic lens: ethical weight is not judged solely by intent or outcome, but by how one’s presence influences cascading patterns of instability in shared proximate environments. This framing is especially relevant for artificial agents operating in complex, multi-agent environments — where direct causality is elusive, and ethical presence must scale without rigid instruction.
 
 ### Conclusion
 
