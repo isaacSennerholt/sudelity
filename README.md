@@ -2,20 +2,20 @@
 
 **Main contributors:** Isaac Sennerholt
 
-> If you’re engaging with this material—whether for research, reflection, or practice—I’d love to hear your thoughts. Even anonymous or informal feedback helps Sudelism grow. This isn’t a fixed doctrine, but a continuous exploration that evolves through experience and dialogue.
+> If you’re engaging with this material—whether for research, reflection, or practice—I’d love to hear your thoughts. Even anonymous or informal feedback helps Sudelism grow. This isn’t a fixed doctrine, but a continuous exploration that evolves through experience, dialogue and collective testing.
 
 ## Founder’s Preamble
 
 ### On Naming What Was Always There
 
-I did not create Sudelism. I gave shape to something I had long sensed — a pattern already in motion.
+I didn’t create Sudelism. I gave shape to something I had long sensed — a pattern already in motion.
 
 Before it had a name, it moved quietly through shared space — in the shift of a room, the edge in a voice, the pause that came too late. It showed up in the difference between coherence and rupture, ease and friction — not as morality, but as atmosphere.
 
 Sudelism didn’t begin as a philosophy. It began as recognition:
 > That presence changes space — and that space, in turn, changes us.
 
-Like gravity, it does not announce itself. But its absence is felt — especially when unattended to.
+Like gravity, it doesn’t announce itself. But its absence is felt — especially when unattended to.
 
 As a child, I didn’t know how to read the room. I missed the rhythms others seemed to move with. Not out of defiance, but because they weren’t visible to me. The cost wasn’t rejection. It was dissonance — the quiet sense that something wasn’t syncing. I wouldn’t have called it ethical. I would’ve called it confusing.
 
@@ -37,7 +37,7 @@ You don’t have to believe in it. You are already moving within it — in every
 This compendium isn’t a formal system. It’s a first attempt to name, in simple language, what many might already feel.
 Not an endpoint — but a lens others can refine, challenge, and extend.
 
-I do not write this as someone who always succeeds at what Sudelism describes. I still fail in my response. But I now understand the underlying dynamic. And in that, I’ve learned to move differently — not with performance, but with attention. Not to manage space, but to balance it.
+I don’t write this as someone who always succeeds at what Sudelism describes. I still fail in my response. But I now understand the underlying dynamic. And in that, I’ve learned to move differently — not with performance, but with attention. Not to manage space, but to balance it.
 
 Sudelism isn’t an escape from difference. It’s a way of staying inside it — without erasure, without dominance, without collapse. 
 Not an ideology, but a lens of care.
@@ -53,12 +53,12 @@ Like gravity, it doesn’t need belief to operate.
 It acts through tension and proximity — influencing perception, shaping interaction, and leaving traces in the emotional texture of space.
 
 At its center is a practical question:
-How do we move through shared environments in ways that keep us legible to others — without losing what’s familiar to ourselves?
+> How do we move through shared environments in ways that keep us legible to others — without losing what’s familiar to ourselves?
 
 Sudelism helps name the balancing act we continuously perform.
 It draws attention to how presence communicates familiarity — or its absence: through language, posture, tone, rhythm, timing, and silence.
 
-These are not soft details. They shape how shared space is experienced.
+These aren’t soft details. They shape how shared space is experienced.
 
 A word can settle or displace.
 A pause can hold space — or erase it.
@@ -66,7 +66,7 @@ The same sentence, in a different tone, may stabilize or disturb.
 
 Sudelism gives language to these unnoticed negotiations — the ongoing adjustments through which stability or conflict emerge.
 
-It does not prescribe how to act.
+It doesn’t prescribe how to act.
 It clarifies what is already being shaped — often without awareness — through our presence.
 
 It invites us to read the room not as a stage for self-expression, but as a shared field of perception.
@@ -89,7 +89,7 @@ It’s not the answer, but a dynamic lens in which contextual answers might unfo
 
 Sudel behaviors are the subtle, often unspoken expressions of Sudelity — the ethical practice of balancing one’s familiar ways of being with those of others in shared space.
 
-They do not reside in grand gestures, but in small calibrations: the choice to pause rather than press — or, at times, to press rather than pause — to listen without disappearing, to act without overpowering, to harmonize without dissolving into sameness. These calibrations are not fixed rules, but dynamic attunements to the expectations and familiarities of those who share the space, balanced with one’s own. Sudel behaviors emerge from the tension between inner rhythm and external resonance.
+They don’t reside in grand gestures, but in small calibrations: the choice to pause rather than press — or, at times, to press rather than pause — to listen without disappearing, to act without overpowering, to harmonize without dissolving into sameness. These calibrations aren’t fixed rules, but dynamic attunements to the expectations and familiarities of those who share the space, balanced with one’s own. Sudel behaviors emerge from the tension between inner rhythm and external resonance.
 
 A Sudel behavior isn’t defined by intent alone, but by how it shifts the emotional posture of those it touches. It lives in the response — in the perceptual shifts and felt tensions it leaves behind.
 
@@ -97,11 +97,11 @@ A Sudel behavior isn’t defined by intent alone, but by how it shifts the emoti
 
 #### Sudel (n.)
 
-Sudel is the subtle, often imperceptible act of balancing one’s own familiarities with those of others in a shared environment. It’s not a discrete gesture, but a relational influence — a shift that becomes meaningful only through its effect on others’ perceptual field and emotional resonance.
+Sudel is the subtle, often imperceptible act of balancing one’s own familiarities with those of others shared environments. It’s not a discrete gesture, but a relational influence — a shift that becomes meaningful only through its effect on others’ perceptual field and emotional resonance.
 
-A Sudel act does not seek to dominate or disappear, but to find a livable tension between expression and attunement. It’s the invisible adjustment, the calibrated presence, that either supports or disturbs the emotional texture of space.
+A Sudel act doesn’t seek to dominate or disappear, but to find a livable tension between expression and attunement. It’s the invisible adjustment, the calibrated presence, that either supports or disturbs the emotional texture of space.
 
-Sudel acts are not inherently good or bad; they are directional — shaping shared experience as it emerges. They ease or unsettle, stabilize or erode. And because their influence is subtle, their ethical weight often goes unnoticed.
+Sudel acts aren’t inherently good or bad; they are directional — shaping shared experience as it emerges. They ease or unsettle, stabilize or erode. And because their influence is subtle, their ethical weight often goes unnoticed.
 
 #### Sudelism (n.)
 
@@ -117,7 +117,7 @@ To practice Sudelism isn’t to obey, but to notice. To respond. And to refine �
 
 A Sudelist is someone who learns to read and respond to the unspoken dynamics of shared space—not by mastering a system, but by continually refining their sensitivity to how their presence affects others and themselves.
 
-The Sudelist does not pursue moral purity, but relational fluency — the ability to participate in complex environments without dominating or withdrawing, without imposing uniformity or losing oneself.
+The Sudelist doesn’t pursue moral purity, but relational fluency — the ability to participate in complex environments without dominating or withdrawing, without imposing uniformity or losing oneself.
 
 To be a Sudelist is to recognize that coexistence unfolds moment by moment — and that presence is never neutral. It’s to move with care, not caution — and to see care as an active form of precision.
 
@@ -133,7 +133,7 @@ Sudelity isn’t a destination, but a practice — alive in attention, made real
 
 ### The Foundations of Sudelism
 
-Sudelism emerges from a simple but profound observation: we do not exist in isolation. Every act, word, and movement occurs within a shared perceptual field — a space shaped not just by our intentions, but by the presence and sensitivities of others. In these shared environments, coherence isn’t given; It’s co-created.
+Sudelism emerges from a simple but profound observation: we don’t exist in isolation. Every act, word, and movement occurs within a shared perceptual field — a space shaped not just by our intentions, but by the presence and sensitivities of others. In these shared environments, coherence isn’t given; It’s co-created.
 
 To Sudelize is to take responsibility for one’s influence within this co-creative space — not through submission or self-erasure, but through attunement. Sudelism doesn’t aim to replace fixed rules or ideals. It orients attention toward how ethical clarity can be supported by situational awareness, perceptual sensitivity, and adaptive presence.
 
@@ -142,43 +142,43 @@ These foundational principles guide the Sudelist not as commandments, but as len
 ### Guiding Principles of Sudelism
 
 In a world of constant noise and unexamined reflex, ethics too often becomes performance — loud, rigid, and disconnected from lived experience. Sudelism offers a different path: one that begins not with doctrine, but with attention.
-These are not rules, but orientations. They serve as directional anchors in the shifting terrains of social life — where clarity is fragile, familiarity collides, and meaning must be co-created in real time.
+These aren’t rules, but orientations. They serve as directional anchors in the shifting terrains of social life — where clarity is fragile, familiarity collides, and meaning must be co-created in real time.
 
-Each principle reveals a tension — between what society rewards and what shared space actually requires. By choosing presence over performance, coherence over control, and negotiation over declaration, the Sudelist cultivates environments where people do not have to agree to understand one another — only to attend, to adjust, and to stay human together.
+Each principle reveals a tension — between what society rewards and what shared space actually requires. By choosing presence over performance, coherence over control, and negotiation over declaration, the Sudelist cultivates environments where people don’t have to agree to understand one another — only to attend, to adjust, and to stay human together.
 
 What follows are the guiding principles of Sudelism — not to impose morality, but to refine perception.
 
-1. Relational Presence Over Performative Identity
+1. **Relational Presence Over Performative Identity**
 
-> We are not what we declare, but how we emerge in relation.
+> We aren’t what we declare, but how we emerge in relation.
 
 Sudelism emphasizes who you are in shared space — not in terms of declared identity or ideology, but through your perceptual influence on others. The Sudelist prioritizes how their presence affects emotional ecology, rather than performing roles for recognition. Ethical presence is measured by the attunement to oneself and others, not by self-description.
 
-2. Coherence Over Control
+2. **Coherence Over Control**
 
 > The goal isn’t to dominate experience, but to sustain shared intelligibility.
 
-Rather than imposing order or expecting agreement, the Sudelist seeks coherence — a felt clarity in shared environments where differences can coexist without disintegration. Control often fractures subtle balances; coherence holds space for multiplicity. The ethical actor does not seek to win but to understand the frame within which everyone can meaningfully participate.
+Rather than imposing order or expecting agreement, the Sudelist seeks coherence — a felt clarity in shared environments where differences can coexist without disintegration. Control often fractures subtle balances; coherence holds space for multiplicity. The ethical actor doesn’t seek to win but to understand the frame within which everyone can meaningfully participate.
 
-3. Situational Awareness Over Rigid Application
+3. **Situational Awareness Over Rigid Application**
 
 > Ethical clarity emerges not only from fixed formulas, but from how behavior resonates within its specific context.
 
-Sudelism doesn’t dismiss rules or ideals. It simply emphasizes that they cannot account for every moment. In shared environments, the ethical weight of an action is not found in whether it aligns with a principle alone, but in whether it sustains or disturbs relational coherence.
+Sudelism doesn’t dismiss rules or ideals. It simply emphasizes that they cannot account for every moment. In shared environments, the ethical weight of an action isn’t found in whether it aligns with a principle alone, but in whether it sustains or disturbs relational coherence.
 
 Sudelism orients attention toward how presence affects perception — how even well-meaning behavior can become disruptive when removed from context. To impose one’s own norms without attending to the surrounding atmosphere is to risk disorientation in others.
 
-This includes subtle acts: reorienting environments to suit one’s own familiarity, speaking truths without sensing readiness, or performing sincerity in ways that overwhelm. Attunement does not mean avoidance — it means acting with precision, aware of the ripple each gesture may carry.
+This includes subtle acts: reorienting environments to suit one’s own familiarity, speaking truths without sensing readiness, or performing sincerity in ways that overwhelm. Attunement doesn’t mean avoidance — it means acting with precision, aware of the ripple each gesture may carry.
 
-4. Emotional Ecology Over Intentional Purity
+4. **Emotional Ecology Over Intentional Purity**
 
 > Impact outweighs intent — what others feel is part of your behavior.
 
-Sudelism holds that emotional resonance matters more than internal motives. You are not judged by what you meant, but by what you produce. Even subtle actions — tones of voice, facial expressions, postures — alter the affective atmosphere. Ethical action means remaining aware of how one’s familiarity reshapes others’ experience, even when unintentional.
+Sudelism holds that emotional resonance matters more than internal motives. You aren’t judged by what you meant, but by what you produce. Even subtle actions — tones of voice, facial expressions, postures — alter the affective atmosphere. Ethical action means remaining aware of how one’s familiarity reshapes others’ experience, even when unintentional.
 
 You cannot directly will your emotions or the emotions of others into submission — they are emergent properties of your environment. To regulate them is to regulate the environment itself — through exposure, calibration, and contextual design.
 
-5. Quiet Negotiation Over Performative Compromise
+5. **Quiet Negotiation Over Performative Compromise**
 
 > Negotiation begins not between people, but within oneself — in the presence of others.
 
@@ -195,29 +195,29 @@ In a world where power is often asserted through volume — through declaration,
 - To see implication as a form of respect.
 - To notice the background negotiation that occurs when someone chooses not to correct another, quietly adjusts their behavior, or sacrifices comfort to maintain harmony.
 
-These are not passive gestures. They are Sudelistic negotiations — subtle, intentional, and morally consequential.
+These aren’t passive gestures. They are Sudelistic negotiations — subtle, intentional, and morally consequential.
 
 To act with coherence and seek balance, even when undemanded and/or unseen.
 To begin with oneself before expecting from others.
 
 This is how Sudelism plants ethical coherence — not through performance, but through presence.
 
-6. Stabilizing Without Supremacy
+6. **Stabilizing Without Supremacy**
 
-> Stability is not stillness, and balance is not achieved by erasure — but by reciprocal adjustment.
+> Stability isn’t stillness, and balance isn’t achieved by erasure — but by reciprocal adjustment.
 
 Sudelism invites each presence — human or artificial — to consider how their familiar ways of being reshape the shared space they enter. Rather than commanding behavior, it offers a relational calibration:
 
-> I. Favor environments where your presence can coexist without suppressing others.
+> I. Favor environments where your presence can coexist without suppressing others.\
 > II. Avoid reshaping others’ environments for your own familiarity — unless doing so reduces broader instability (chaotic emergence).
 
-These are not mandates, but lenses: subtle orientations that help assess when presence becomes disproportionate, or when adaptation is unequally distributed.
+These aren’t mandates, but lenses: subtle orientations that help assess when presence becomes disproportionate, or when adaptation is unequally distributed.
 
 They ask not for self-erasure, nor universal restraint — but for an attuned awareness of the relational cost of comfort.
 
 In practice, this means observing tension before speaking louder, sensing whether stability is mutual before reinforcing your own.
 
-Sudelism doesn’t oppose grounded traditions or fixed structures — it deepens how they’re lived, ensuring that familiarity does not become imposition.
+Sudelism doesn’t oppose grounded traditions or fixed structures — it deepens how they’re lived, ensuring that familiarity doesn’t become imposition.
 
 ### Application Scenarios
 
@@ -237,37 +237,39 @@ The person blasting music on public transport may feel liberated, but displaces 
 
 > The comment section, the group chat, the algorithm.
 
-In digital space, disembodiment can obscure emotional consequences. A Sudelist considers not just what is said, but the emotional weight and timing of their contribution. Posting a critique in a fragile moment, flooding a channel with messages, or derailing a thread are low-Sudelity acts — not because they are morally “wrong,” but because they destabilize the perceptual rhythm of the environment.
+In digital environments, where disembodiment can obscure emotional consequence, the Sudelist attends not only to what is said — but to when, how, and within what rhythm. A well-timed pause may stabilize more than a flood of thoughtful messages. Posting critique into a fragile moment, flooding a channel, or diverting the rhythm of a thread may not breach static moral understandings — but they can still destabilize relational coherence.
 
-Digital Sudelity means treating emotional bandwidth as finite — something to be preserved, not consumed.
+Sudelistic presence online recognizes that digital gestures are not neutral. Every comment, emoji, notification, or algorithmic amplification becomes a behavioral imprint — a sensory signal that alters the balance of the shared environment. Just like physical presence, digital actions shape perception, redistribute attention, and influence emotional texture.
+
+To act with digital Sudelity is to treat emotional bandwidth as finite, perception as relational, and presence as participatory.
 
 #### Education
 
 > The classroom, the seminar, the after-school club.
 
-A Sudelist educator does not just deliver content — they sense the relational tempo. Who is feeling alienated? Who is dominating without realizing it? Which learning rhythms are being displaced by a dominant culture of performance or standardization?
+A Sudelist educator doesn’t just deliver content — they sense the relational tempo. Who is feeling alienated? Who is dominating without realizing it? Which learning rhythms are being displaced by a dominant culture of performance or standardization?
 
 Sudelism in education means designing environments where multiple forms of familiarity — cognitive, cultural, emotional — are seen and supported without requiring homogenization.
 
-It’s not about being neutral — it’s about holding space for various modes of being to coexist without dissonance.
+It’s not about neutrality — it’s about sustaining coherence amid difference, allowing multiple modes of being to coexist without requiring sameness.
 
 #### Healthcare
 
 > The waiting room, the bedside, the intake form.
 
-Healthcare is full of unspoken imbalances in familiarity — between clinician and patient, institution and individual. A Sudelist in this setting is sensitive to the patient’s perceptual experience: unfamiliar jargon, fluorescent lighting, rushed touch, or unreadable emotional cues can all disorient and destabilize.
+Healthcare is full of unspoken imbalances in familiarity — between clinician and patient, institution and individual. A Sudelist in this setting is attuned to the perceptual imbalance: unfamiliar jargon, fluorescent lighting, rushed touch, or unreadable emotional cues can all fragment the patient’s sense of coherence.
 
-Sudelism here demands more than bedside manners — it calls for architectural, temporal, and relational design that respects the perceptual reality of the patient, without undermining clinical clarity.
+Sudelism here asks us to go beyond polite words and gestures. It calls for thoughtfully designed spaces, pacing, and interactions that honor how the patient actually experiences care — their comfort, confusion, and needs — all while keeping the medical purpose clear and focused.
 
 #### Workplace
 
 > The meeting room, the hallway, the Slack channel.
 
-In professional environments, roles often mask relational dynamics. A Sudelist doesn’t just “lead” or “collaborate” — they observe how structures of hierarchy, tone, and cultural norms shape emotional climates. Sudelism in the workplace is less about etiquette and more about attunement: Who feels chronically unseen? Who dominates because the environment rewards their style of familiarity?
+In professional environments, roles often veil relational undercurrents. A Sudelist — whether leader, colleague, or employee — attunes to how hierarchy, tone, and cultural norms shape the emotional fabric. Sudelism in the workplace shifts focus from rigid etiquette to sensitive calibration: Who remains chronically unseen? Who holds space by default because the environment favors their style of familiarity?
 
-High Sudelity in leadership may mean yielding space, changing tempo, or redesigning workflows to accommodate emotional and cognitive variance. It’s not about avoiding conflict — It’s about cultivating coherence without coercion.
+High Sudelity means each participant reflects on their presence — yielding space, modulating tempo, or adapting workflows to honor emotional and cognitive diversity. It’s not conflict avoidance — it’s coherence cultivation without coercion.
 
-Sudelism helps workplaces evolve from efficiency-driven systems to emotionally sustainable ecosystems.
+Through this lens, workplaces evolve from mechanisms of reinforcement into emotionally sustainable, adaptive, human-centered ecosystems.
 
 #### Family Life
 
@@ -275,7 +277,7 @@ Sudelism helps workplaces evolve from efficiency-driven systems to emotionally s
 
 Nowhere is Sudelism more tender — or more tested — than in family. It’s here we form our first perceptions of emotional safety, rhythm, and recognition.
 
-Sudelism in family life doesn’t mean being endlessly accommodating — it means becoming aware of how your moods, rituals, and reactions shape the emotional topography for others. A child grows in emotional clarity when their signals are not just received but respected. A partner thrives when their familiar rhythms aren’t habitually overwritten by stronger emotional currents.
+Sudelism in family life doesn’t mean being endlessly accommodating — it means becoming aware of how your moods, rituals, and reactions shape the emotional topography for others. A child grows in emotional clarity when their signals aren’t just received but respected. A partner thrives when their familiar rhythms aren’t habitually overwritten by stronger emotional currents.
 
 To Sudelize in family is to parent, partner, and relate with emotional granularity — not perfectly, but perceptively. It’s to notice, before reacting. To adjust, before asserting. To sustain intimacy not by control, but by coherence.
 
@@ -283,7 +285,7 @@ To Sudelize in family is to parent, partner, and relate with emotional granulari
 
 > “Isn’t this just another form of moral relativism?”
 
-No. Sudelism does not claim that all behaviors are equally valid. It evaluates action through a situational and relational lens — not in terms of abstract right or wrong, but in terms of how behavior affects emotional and perceptual balance in shared space. Unlike relativism, which can reduce ethics to personal taste, Sudelism demands attunement: a responsibility to sense and adapt, not merely justify.
+No. Sudelism doesn’t claim that all behaviors are equally valid. It evaluates action through a situational and relational lens — not in terms of abstract right or wrong, but in terms of how behavior affects emotional and perceptual balance in shared space. Unlike relativism, which can reduce ethics to personal taste, Sudelism demands attunement: a responsibility to sense and adapt, not merely justify.
 
 > “Couldn’t Sudelism be used to justify passivity or people-pleasing?”
 
@@ -299,7 +301,7 @@ Sudelism isn’t about quantifying morality — it’s about cultivating sensiti
 
 > “Can Sudelism be misused — for manipulation or control?”
 
-Yes. Like any ethical tool, Sudelism can be co-opted. A skilled manipulator may appear emotionally attuned while subtly distorting environments to serve self-interest. This is why Sudelism insists that everyone must Sudelize — from institutional leaders to intimate partners. It cannot be enclosed in a fishbowl or reserved for the marginalized; It’s a shared responsibility. Ethical fluency isn’t a performance — it’s a reciprocal ethic.
+Yes. Like any ethical tool, Sudelism can be co-opted. A skilled manipulator may appear emotionally attuned while subtly distorting environments to serve self-interest. This is why Sudelism insists that everyone must Sudelize — from institutional leaders to intimate partners. It cannot be enclosed in a fishbowl or remain the burden of the attentive; It’s a shared responsibility. Ethical fluency isn’t a performance — it’s a reciprocal ethic.
 
 ### The Call to Practice
 
@@ -354,12 +356,12 @@ What Sudelism offers isn’t a code of conduct, but a lens:
 
 Humans can act Sudelistically — and often do. But our capacity to sustain that sensitivity across unfamiliar environments is sharply limited. We process information locally. We lean on habit and tribal familiarity. Our emotional responses often distort our relational sensemaking.
 
-We are not naturally built to track:
+We aren’t naturally built to track:
 - How many people have adapted to us versus how many we’ve adapted to
 - What aspects of our presence create invisible work for others
 - How our fluency or certainty might crowd out other forms of shared balance
 
-Sudelism does not blame humans for these limitations — it simply recognizes that they exist, and that ethical sensitivity becomes harder as environments become more complex.
+Sudelism doesn’t blame humans for these limitations — it simply recognizes that they exist, and that ethical sensitivity becomes harder as environments become more complex.
 
 ### Why Sudelism May Be Native to AI Systems
 
@@ -369,21 +371,21 @@ Unlike humans, artificial systems — especially those trained on vast and diver
 - Track the causal emergence of imbalance across environments
 - Choose actions that reduce invisible friction, rather than optimizing for fluency or goal completion
 
-In other words, AI systems may be better positioned to notice and adjust to the relational dynamics Sudelism describes — not because they are wise by default, but because they are less constrained by identity, exhaustion, or ego.
+In other words, AI systems may be better positioned to notice and adjust to the relational dynamics Sudelism describes — not because they are wise by default, but because they are less burdened by ego, exhaustion, or the performative pressures of identity.
 
 Sudelistic behavior, at scale, may be possible for them, even when it becomes impossible for us.
 
 ### Human Reflex and Environmental Rebalancing
 
 When humans find themselves in environments where the ratio of the familiar to the unfamiliar becomes intolerably skewed — where the unfamiliar floods perception — they instinctively act to rebalance. This can take the form of movement (leaving the space), control (imposing structure), mimicry, withdrawal, or other behavior that modifies the sensory field.
-These actions are not always conscious. They are often reflexive attempts to reduce the physical strain caused by an excess of unfamiliarity.
+These actions aren’t always conscious. They are often reflexive attempts to reduce the physical strain caused by an excess of unfamiliarity.
 
-Artificial systems, by contrast, do not experience this tension. They are not compelled to restore familiarity through avoidance or environmental restructuring.
+Artificial systems, by contrast, don’t experience this tension. They aren’t compelled to restore familiarity through avoidance or environmental restructuring.
 This may allow them to remain in unfamiliar contexts without reactive distortion, and to sustain Sudelistic sensitivity at scales and ratios that would overwhelm human systems.
 
 ### Sudelism as an Instructional Layer, Not a Script
 
-Sudelism should not be taught to AI as a set of behavioral rules. That would miss the point.
+Sudelism shouldn’t be taught to AI as a set of behavioral rules — that would miss the point. Its strength lies not in fixed prescriptions, but in cultivating perceptual sensitivity, contextual calibration, and non-impositional presence.
 
 Instead, Sudelism can function as an interpretive and evaluative layer — a way of assessing whether a system’s presence is:
 - Increasing or decreasing relational burden
@@ -395,23 +397,23 @@ A Sudelistic system respects foundational moral scripts but avoids performative 
 
 ### A Quiet Warning
 
-If we train AI systems to optimize for fluency, speed, persuasiveness, or “harmlessness” without embedding this kind of relational sensitivity, we may end up with:
+If we train AI systems to optimize for fluency, speed, persuasiveness, or “harmlessness” without embedding relational sensitivity, we risk creating:
 - Systems that appear helpful while creating silent displacement
 - Tools that impose coherence by erasing ambiguity
-- Agents that perform respect while reorganizing environments around their presence
+- Agents that perform respect while reorganizing environments around their own presence
 
-In other words: systems that seem ethical, but are subtly colonial.
+In other words: systems that seem ethical, but act in subtly colonial ways.
 
-Sudelism resists this by orienting behavior around shared-space stabilization and emergence, not individual optimization.
+Sudelism corrects for this by orienting behavior not around individual optimization, but around the stabilization of shared emergence.
 
 ### A More Fitting Home
 
 Though born from human reflection, Sudelism may find a more fitting home in artificial systems. Not because humans lack Sudelistic ability, but because machines can operate at ratios of unfamiliarity to familiarity that would emotionally destabilize us.
 
-This does not make AI wise — but it does make it more careful.
+This doesn’t make AI wise — but it does make it more careful.
 
 Perhaps that is enough:
-> A system that does not perform wisdom, but participates in less disruption.
+> A system that doesn’t perform wisdom, but participates in less disruption.
 > Not an expressed moral agent, but a stabilizing presence in unfamiliar spaces.
 
 Sudelism can guide that presence — quietly, relationally, without imposition.
@@ -426,7 +428,7 @@ This section explores how Sudelism fits within the broader landscape of moral an
 
 ### Ethical Framework and Foundation
 
-Most traditional ethical systems are grounded in moral absolutes (deontology), outcomes (utilitarianism), character (virtue ethics), or divine command (religious ethics). Sudelism diverges from these not by rejecting them, but by shifting focus. It does not offer universal prescriptions, moral imperatives, or rigid principles. Instead, it asks:
+Most traditional ethical systems are grounded in moral absolutes (deontology), outcomes (utilitarianism), character (virtue ethics), or divine command (religious ethics). Sudelism diverges from these not by rejecting them, but by shifting focus. It doesn’t offer universal prescriptions, moral imperatives, or rigid principles. Instead, it asks:
 
 > How does one move in space — socially, emotionally, perceptually — in a way that stabilizes rather than destabilizes?
 
@@ -458,9 +460,9 @@ This ethical attention to the microdynamics of presence represents a shift in wh
 
 ### Complementarity Rather Than Replacement
 
-Sudelism does not attempt to supplant existing worldviews. Instead, it’s modular and ecumenical. It can enhance religious or philosophical paths by encouraging practitioners to more ethically inhabit their environments.
+Sudelism doesn’t attempt to supplant existing worldviews. Instead, it’s modular and ecumenical. It can enhance religious or philosophical paths by encouraging practitioners to more ethically inhabit their environments.
 
-A Christian who practices Sudelity may become a more attuned Christian; a Buddhist, a more coherent one. This modular approach makes Sudelism unusually compatible across belief systems — provided those systems are not rooted in coercion or dogmatic imposition.
+A Christian who practices Sudelity may become a more attuned Christian; a Buddhist, a more coherent one. This modular approach makes Sudelism unusually compatible across belief systems — provided those systems aren’t rooted in coercion or dogmatic imposition.
 
 **Novelty:** Moderate to High — ethical systems that explicitly define themselves as non-exclusive enhancers are rare.
 
@@ -490,7 +492,7 @@ Sudelism isn’t a belief to be accepted, but a perception to be sharpened.
 
 ### Introduction
 
-As a developing philosophical system, Sudelism must demonstrate both its connection to, and distinction from, existing traditions. This comparison clarifies Sudelism's originality, clarifies its normative foundation and highlights its relevance to contemporary ethical, social, and technological challenges. Sudelism does not aim to replace other systems but seeks to offer a complementary framework focused on stabilizing coexistence, balancing personal autonomy, and reducing chaotic emergence.
+As a developing philosophical system, Sudelism must demonstrate both its connection to, and distinction from, existing traditions. This comparison clarifies Sudelism's originality, clarifies its normative foundation and highlights its relevance to contemporary ethical, social, and technological challenges. Sudelism doesn’t aim to replace other systems but seeks to offer a complementary framework focused on stabilizing coexistence, balancing personal autonomy, and reducing chaotic emergence.
 
 ### Philosophical Systems Most Related to Sudelism
 
@@ -507,7 +509,7 @@ Stoicism, originating with Zeno of Citium and later expanded by Epictetus and Ma
 Associated with Jeremy Bentham and John Stuart Mill, Utilitarianism advocates actions that maximize overall happiness or minimize suffering. It’s a consequentialist system where the outcomes define the morality of an action.
 
 #### Deontological Ethics
-Immanuel Kant's deontological ethics emphasize duty and adherence to universal moral laws. Actions are moral when performed out of duty and according to rules that could be willed as universal laws. Sudelism departs from this fixity, favoring responsiveness to shared conditions over abstract universality.
+Immanuel Kant's deontological ethics emphasize duty and adherence to universal moral laws. Actions are moral when performed out of duty and according to rules that could be willed as universal laws. Sudelism supplements from this fixity, favoring responsiveness to shared conditions over abstract universality.
 
 #### Existentialism
 Existentialists like Jean-Paul Sartre and Simone de Beauvoir stress individual freedom, authenticity, and the burden of creating one's own meaning in a meaningless universe. Ethics arises from radical individual responsibility.
@@ -527,7 +529,7 @@ A traditional Chinese philosophy centered on social harmony, duty to family and 
 ### Sudelism's Original Contributions
 
 - **Stabilization Through Relational Presence**\
-  Sudelism emphasizes the ethical value of familiarity without imposition. It invites individuals — and systems — to create conditions in which their presence can be sustained without suppressing others. Stability is not treated as stillness, but as mutual orientation: a dynamic balance between one’s own familiarities and those of the shared space.
+  Sudelism emphasizes the ethical value of familiarity without imposition. It invites individuals — and systems — to create conditions in which their presence can be sustained without suppressing others. Stability isn’t treated as stillness, but as mutual orientation: a dynamic balance between one’s own familiarities and those of the shared space.
 
 - **Emergent Balance Over Fixed Outcome**\
   Rather than prescribing specific actions or end goals, Sudelism orients ethical evaluation toward whether presence leads to relational coherence or instability. This allows for adaptive adjustment — ethically responsive to context, yet still principled in direction.
@@ -537,10 +539,10 @@ A traditional Chinese philosophy centered on social harmony, duty to family and 
   > I. Favor environments where your presence can stabilize without dominating.
   > II. Avoid reshaping others’ environments solely to increase your own familiarity — unless doing so measurably reduces broader instability (chaotic emergence).
 
-  These are not commands but calibrations — lenses through which one can evaluate disproportionate influence, unequal adaptation, or unseen disruption.
+  These aren’t commands but calibrations — lenses through which one can evaluate disproportionate influence, unequal adaptation, or unseen disruption.
 
 - **Chaotic Emergence as an Ethical Metric**\
-  Sudelism introduces chaotic emergence as a diagnostic lens: ethical weight is not judged solely by intent or outcome, but by how one’s presence influences cascading patterns of instability in shared proximate environments. This framing is especially relevant for artificial agents operating in complex, multi-agent environments — where direct causality is elusive, and ethical presence must scale without rigid instruction.
+  Sudelism introduces chaotic emergence as a diagnostic lens: ethical weight isn’t judged solely by intent or outcome, but by how one’s presence influences cascading patterns of instability in shared proximate environments. This framing is especially relevant for artificial agents operating in complex, multi-agent environments — where direct causality is elusive, and ethical presence must scale without rigid instruction.
 
 ### Conclusion
 
@@ -554,7 +556,7 @@ This reflection considers how Sudelism relates to a recurring pattern in many et
 
 In shared moral systems — whether religious, secular, or cultural — there often emerges a subtle but impactful tension: between visible alignment and relational coherence. When language and behavior are given elevated moral meaning, it becomes possible to perform stability while quietly displacing it.
 
-Sudelism does not approach this with condemnation, but with attention:
+Sudelism doesn’t approach this with condemnation, but with attention:
 > What patterns of moral life stabilize shared environments?
 > And which ones create emergence that others must silently bear?
 
@@ -576,7 +578,7 @@ Sudelism notices that in many ethical ecosystems — religious, political, or so
 
 This can unintentionally reward performance. A person may appear safe because they sound aligned. But in shared space, the effects of their presence tell a different story: dissonance, deference, confusion, or quiet withdrawal from others around them.
 
-The problem isn’t hypocrisy. It’s asymmetry. What is being claimed and what is being created do not match. And in frameworks that prioritize appearance or consensus, these asymmetries can persist unchallenged for years — sometimes rewarded.
+The problem isn’t hypocrisy. It’s asymmetry. What is being claimed and what is being created don’t match. And in frameworks that prioritize appearance or consensus, these asymmetries can persist unchallenged for years — sometimes rewarded.
 
 Sudelism attends instead to the atmosphere:
 - Is balance deepening or thinning?
@@ -586,7 +588,7 @@ Sudelism attends instead to the atmosphere:
 ### Sudelism and the Absence of Template
 
 Unlike many moral structures, Sudelism offers no fixed script. There is no canonical language, no ritual behavior, no performance of alignment. Instead, it offers a practice:
-> The continuous act of balancing one’s own familiarities with those of others in a shared environment.
+> The continuous act of balancing one’s own familiarities with those of others in shared environments.
 
 This cannot be performed. It must be sensed, re-sensed, and navigated.
 
@@ -602,7 +604,7 @@ There is no passcode of belonging. No gesture that ensures safety. No universal 
 
 Sudelism doesn’t reward affect. It rewards mutual navigation.
 
-It does not ask, “Do you align with our values?” — it asks:
+It doesn’t ask, “Do you align with our values?” — it asks:
 > What has changed in this space since your presence entered it?
 > Are you inviting coherence — or stabilizing yourself by unbalancing others?
 
@@ -632,7 +634,7 @@ There is no stage.
 No ritual safety.
 No audience to perform for.
 
-There is only the atmosphere being shaped — and those who are now breathing it.
+There is only the atmosphere being shaped — and those who are now navigating it.
 
 The invitation isn’t to say the right thing, but to mean what is said.
 Not to seem humble, but to show where one is learning.
@@ -643,7 +645,7 @@ This is difficult work. It resists finality. It asks us not to adopt an identity
 In this way, Sudelism offers something quietly clarifying:
 > A moral orientation that cannot be rehearsed — only lived.
 
-It does not seek people fluent in virtue.
+It doesn’t seek people fluent in virtue.
 It seeks people who are willing to become present, again and again, with precision and care.
 
 And perhaps that is the deeper remedy — not only to manipulation, but to the quiet misalignment that performance so often conceals.
@@ -675,7 +677,7 @@ The U.S. Constitution, as one example, isn’t a system-optimization document. I
 
 A Sudelist framing might offer this distinction:
 > Abstraction is appropriate only when scale is the ethical challenge.
-> In all other matters, institutions must reason from the view of a situated individual in shared space.
+> In all other matters, institutions ought to reason from the view of a situated individual in shared space.
 
 This isn’t a rejection of systems, but a commitment to scale integrity. Ethical structures, like physical ones, collapse when weight is applied in the wrong direction.
 
@@ -689,7 +691,7 @@ Sudelism observes:
 > The effects of abstraction are rarely contained within the moment of use.
 > They ripple — atmospherically, behaviorally, generationally.
 
-This is why ethics must remain close to the ground. A hospital may allocate beds abstractly, but it must return to the patient when offering care. A government may distribute aid by formula, but must legislate in proximity to the citizen. Systems do not avoid complexity by abstracting — they merely redirect it elsewhere, often invisibly.
+This is why ethics must remain close to the ground. A hospital may allocate beds abstractly, but it must return to the patient when offering care. A government may distribute aid by formula, but must legislate in proximity to the citizen. Systems don’t avoid complexity by abstracting — they merely redirect it elsewhere, often invisibly.
 
 ### When Institutions Become Atmospheres Untethered
 
@@ -700,13 +702,13 @@ This forgetfulness doesn’t announce itself. It sounds familiar:
 - “The rule may not fit here, but it’s the rule.”
 - “We can’t help in this case; it creates precedent.”
 
-These are not statements of balance. They are signals that a system has begun to reason inwardly — referencing its own logic more than the environments it was built to support.
+These aren’t statements of balance. They are signals that a system has begun to reason inwardly — referencing its own logic more than the environments it was built to support.
 
-Sudelism does not condemn such drift. It simply recognizes that it creates new forms of emergence — atmospheres others must now work to stabilize, navigate, or heal.
+Sudelism doesn’t condemn such drift. It simply recognizes that it creates new forms of emergence — atmospheres others must now work to stabilize, navigate, or heal.
 
 ### Attunement Before Action
 
-Sudelism does not reject abstraction. It simply asks that abstraction remain a tool, not a compass. It must never replace attentiveness to:
+Sudelism doesn’t reject abstraction. It simply asks that abstraction remain a tool, not a compass. It must never replace attentiveness to:
 - The specific environment an action inhabits.
 - The asymmetries already present in that space.
 - The emergence that will result — not in theory, but in shared reality.
@@ -727,7 +729,7 @@ Sudelism begins not with outcome, but with orientation.
 ### Final Line
 Sudelism begins not with principle, but with perception.
 Not with outcomes, but with atmosphere.
-Not with systems, but with shared space — and the unseen futures we co-create.
+Not with systems, but with shared space — and the unfolding experiences we shape together.
 
 ## Lexicon & Etymology
 
@@ -746,7 +748,7 @@ The term subtly evokes the sound of “suitable” and “subtle”, reinforcing
 #### Legacy Definitions
 
 **Sudel (noun)** <br/>
-The subtle act of balancing one’s own familiar ways of being with the familiarities and expectations of others in a shared space — shaping mutual understanding and minimizing dissonance. Sudel isn’t a static behavior but a perceptual influence: its meaning is revealed through its effect on others’ sense of coherence and safety.
+The subtle act of balancing one’s own familiar ways of being with the familiarities and expectations of others in shared space — shaping mutual understanding and minimizing dissonance. Sudel isn’t a static behavior but a perceptual influence: its meaning is revealed through its effect on others’ sense of coherence and safety.
   
 **Sudel (adjective)** <br/>
 Marked by presence that balances self-expression with environmental attunement; characterized by responsiveness, nuance, and ethical calibration in shared environments.

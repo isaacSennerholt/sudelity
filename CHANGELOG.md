@@ -1,7 +1,8 @@
 # Changelog
 
-## v2.0.7 – Add relational commitments and refine Sudelism’s original contributions
+## v2.0.8 — Micro-refinements for tonal and semantic coherence
 
+## v2.0.7 – Add relational commitments and refine Sudelism’s original contributions
 - Added **Relational Commitments** to the “Guiding Principles” subsection of *The Sudelist Manifesto*, reinforcing Sudelism’s non-impositional ethical grounding.
 - Revised the “Original Contributions” section under *Sudelism Compared to Existing Philosophical and Ethical Systems* to:
   - Emphasize stabilization through relational presence
