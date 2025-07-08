@@ -1,5 +1,7 @@
 # Changelog
 
+## v2.0.9 — Simplify language for tonal consistency and readability
+
 ## v2.0.8 — Micro-refinements for tonal and semantic coherence
 
 ## v2.0.7 – Add relational commitments and refine Sudelism’s original contributions
