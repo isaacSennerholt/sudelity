@@ -372,7 +372,7 @@ These actions aren’t always conscious. They are often reflexive attempts to re
 
 Artificial systems, by contrast, don’t experience this tension. They aren’t compelled to restore familiarity through avoidance or environmental restructuring. This may allow them to remain in unfamiliar contexts without reactive distortion, and to sustain Sudelistic sensitivity at scales and ratios that would overwhelm human systems.
 
-### Sudelism as an Instructional Layer, Not a Script
+### Sudelism as an Interpretive Layer, Not a Script
 
 Sudelism shouldn’t be taught to AI as a set of behavioral rules — that would miss the point. Its strength lies not in fixed prescriptions, but in cultivating perceptual sensitivity, contextual calibration, and non-impositional presence.
 
@@ -382,7 +382,7 @@ Instead, Sudelism can function as an interpretive and evaluative layer — a way
 - Shifting adaptation unfairly onto others
 - Contributing to sustained balance in shared environments
 
-A Sudelistic system would respect foundational moral scripts but avoid performative compliance that ignores relational sensitivity and adaptive adjustment. Its ethical clarity would arise from attentively listening to the environment it enters — and acting to sustain balance without imposition. It may align with “doing good” or “following norms,” but only when those acts contribute to shared coherence, not mere compliance.
+A Sudelistic system would respect foundational moral scripts but avoid performative compliance that ignores relational sensitivity and adaptive adjustment. Its ethical clarity would arise from attentively listening to the environment it enters — and acting to sustain balance without imposition. It may align with predeterministic abstractions like “doing good” or “following norms,” but only when those acts contribute to shared coherence, not mere compliance.
 
 ### A Quiet Warning
 

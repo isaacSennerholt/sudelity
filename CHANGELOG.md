@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.0.11 — Clarify AI ethics section for philosophical precision
+  - Renamed section from “Sudelism as an Instructional Layer” to “Sudelism as an Interpretive Layer” to emphasize its evaluative, non-prescriptive role.
+  - Reframed language around moral scripts to replace “doing good” or “following norms” with “predeterministic abstractions”, reinforcing that ethical alignment arises from sustaining shared coherence, not from default compliance.
+  - Minor tonal refinements for consistency with the v2.0.x series.
+
 ## v2.0.10 — Micro-refinements for tonal and semantic coherence
 
 ## v2.0.9 — Simplify language for tonal consistency and readability
