@@ -660,13 +660,13 @@ In such moments, institutions cease to be navigators of shared space. They becom
 
 ### The Perspective of the Situated Individual
 
-Sudelism requires an intuition with many early constitutional frameworks: that institutions derive their moral grounding not from their ability to manage populations, but from their capacity to preserve the moral standing of the individual.
+Sudelism shares an intuition with many early constitutional frameworks: that institutions derive their moral grounding not from their ability to manage populations, but from their capacity to preserve the moral standing of the individual.
 
 The U.S. Constitution, as one example, isn’t a system-optimization document. It encodes restraint — limits designed to prevent abstraction from overtaking personhood. Its logic begins from the rights of individuals and scales outward, not the reverse.
 
 A Sudelist framing might offer this distinction:
-> Abstraction is appropriate only when scale is the ethical challenge.
-> In all other matters, institutions ought to reason from the view of a situated individual in shared environment.
+> Abstraction is appropriate when scale is the ethical challenge.
+> In all other matters, institutions ought to reason from the view of a situated individual in a shared environment.
 
 This isn’t a rejection of systems, but a commitment to scale integrity. Ethical structures, like physical ones, collapse when weight is applied in the wrong direction.
 
@@ -693,7 +693,7 @@ This forgetfulness doesn’t announce itself. It sounds familiar:
 
 These aren’t statements of balance. They are signals that a system has begun to reason inwardly — referencing its own logic more than the environments it was built to support.
 
-Sudelism doesn’t condemn such drift. It simply recognizes that it creates new forms of emergence — atmospheres others must now work to stabilize, navigate, or heal.
+Sudelism doesn’t condemn such drift. It simply recognizes that it creates new forms of emergence — environments others must now work to navigate and stabilize.
 
 ### Attunement Before Action
 
@@ -717,7 +717,7 @@ Sudelism begins not with outcome, but with orientation.
 
 ### Final Line
 Sudelism begins not with principle, but with perception.
-Not with outcomes, but with atmosphere.
+Not with outcomes, but with environmental coherence.
 Not with systems, but with shared environments — and the unfolding experiences we shape together.
 
 ## Lexicon & Etymology
