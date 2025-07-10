@@ -1,5 +1,15 @@
 # Changelog
 
+## v2.1.0 — Add "Relational Ethics as First Ethics"
+- Added new philosophical section: **Relational Ethics as First Ethics**
+- Introduced Sudelism’s formal ethical proposition:
+  > All ethical obligations arise from the presence of shared environments; therefore, the only foundational form of interpersonal ethics is relational ethics in shared environments.
+- Provided a structured argument for why shared environments are the necessary condition for moral obligation
+- Clarified Sudelism’s grounding of ethics in relational presence and spatial co-existence
+- Positioned Sudelism in relation to (and in philosophical departure from) Levinas, Ubuntu, and Buber
+- Extended applicability to AI, multi-agent systems, and other mixed-agency contexts
+- Concluded with a refined closing claim emphasizing Sudelism’s role in naming the irreducible condition of interpersonal ethics and inviting disciplined participation in Sudelity
+
 ## v2.0.12 — Micro-refinements for tone, relational clarity, and formatting
 - Improved typographic and spacing consistency in the opening paragraph
 - Added transitional sentence to the Founder’s Preamble introducing Sudelism's relational ethics origin
