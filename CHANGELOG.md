@@ -1,5 +1,19 @@
 # Changelog
 
+## v2.2.0 — Add “The Gradient of Imposed Change (GIC)” as a formal logic-mathematical model
+- Introduced a new foundational section: **The Gradient of Imposed Change (GIC)**
+- Formalized Sudelism’s core ethical calculus:  
+  `Ethical Disruption (ED) = Δ × F × N`  
+  where **Δ** = Degree of Imposed Change, **F** = Depth of Familiarity, **N** = Networked Consequences
+- Established the **ED Interpretation Rubric (EDIR)** as a shared framework for interpreting weighted scores across domains
+- Provided comparative evaluation logic for assessing competing decision scenarios
+- Developed a stage-sensitive **abortion ethics case study** to demonstrate dynamic relational scoring
+- Defined **Sudelistic Ethical Scoring Systems (SESS)** for institutional modeling, forecasting, and ethical simulation
+- Encouraged transparency of weighting rubrics to foster accountability, while acknowledging necessary limits (e.g., national security)
+- Extended future applicability to domains such as **AI, climate ethics, and geopolitical conflict**
+- Reaffirmed Sudelism’s non-absolutist stance: **ED indicates moral weight, not verdict**
+- Positioned GIC as **Sudelism’s logic-mathematical expression of relational ethics in practice**
+
 ## v2.1.0 — Add "Relational Ethics as First Ethics"
 - Added new philosophical section: **Relational Ethics as First Ethics**
 - Introduced Sudelism’s formal ethical proposition:
