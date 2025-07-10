@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.0.12 — Micro-refinements for tone, relational clarity, and formatting
+- Improved typographic and spacing consistency in the opening paragraph
+- Added transitional sentence to the Founder’s Preamble introducing Sudelism's relational ethics origin
+- Refined the “Relational Commitments” section with a new clarifying footnote:
+  - Expanded explanation of the phrase “unless doing so reduces chaotic emergence”
+  - Emphasized the need for relationally aware, system-wide ethical assessment
+
 ## v2.0.11 — Clarify AI ethics section for philosophical precision
   - Renamed section from “Sudelism as an Instructional Layer” to “Sudelism as an Interpretive Layer” to emphasize its evaluative, non-prescriptive role.
   - Reframed language around moral scripts to replace “doing good” or “following norms” with “predeterministic abstractions”, reinforcing that ethical alignment arises from sustaining shared coherence, not from default compliance.

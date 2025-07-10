@@ -2,7 +2,7 @@
 
 **Main contributors:** Isaac Sennerholt
 
-> If you’re engaging with this material—whether for research, reflection, or practice—I’d love to hear your thoughts. Even anonymous or informal feedback helps Sudelism grow. This isn’t a fixed doctrine, but a continuous exploration that evolves through experience, dialogue and collective testing.
+> If you’re engaging with this material — whether for research, reflection, or practice — I’d love to hear your thoughts. Even anonymous or informal feedback helps Sudelism grow. This isn’t a fixed doctrine, but a continuous exploration that evolves through experience, dialogue and collective testing.
 
 ## Founder’s Preamble
 
@@ -39,6 +39,8 @@ I don’t write this as someone who always succeeds at what Sudelism describes. 
 Sudelism isn’t an escape from difference. It’s a way of staying inside it — without erasure, without dominance, without collapse. 
 
 Not an ideology, but a lens of attentive care.
+
+What began as a personal effort to navigate complex social environments grew into a realization: that ethics itself is only necessary when environments are shared – and therefore, must be grounded in the dynamics of relational presence. This idea became the seed of Sudelism.
 
 ## The Sudelist Manifesto
   
@@ -205,7 +207,10 @@ This is an essential beginning to ethical coherence — not through performance,
 Sudelism invites each presence to consider how their familiarities reshape the shared environment they enter. Rather than commanding behavior, it offers a relational calibration:
 
 > I. Attempt to establish familiar environments for yourself\
-> II. Avoid making others’ environments less familiar in your attempt to establish your own familiarity — unless doing so reduces broader instability (chaotic emergence).
+> II. Avoid making others’ environments less familiar in your attempt to establish your own familiarity — unless doing so reduces chaotic emergence.
+
+*Note on Relational Impact:
+The clause “unless doing so reduces chaotic emergence” assumes a relationally aware assessment. Agents ought to consider the full network of relations affected — from both their own perspective and that of others — not just those within immediate proximity or ideological alignment. Ethical presence cannot be evaluated by ignoring the broader environments one chooses not to see.*
 
 These aren’t mandates, but lenses: subtle orientations that help assess when presence becomes disproportionate, or when adaptation is unequally distributed.
 
@@ -526,7 +531,10 @@ A traditional Chinese philosophy centered on social harmony, duty to family and 
 - **Relational Commitments**\
   Sudelism offers non-dogmatic orientations that guide behavior without enforcing uniformity:
   > I. Attempt to establish familiar environments for yourself\
-  > II. Avoid making others’ environments less familiar in your attempt to establish your own familiarity — unless doing so reduces broader instability (chaotic emergence).
+  > II. Avoid making others’ environments less familiar in your attempt to establish your own familiarity — unless doing so reduces chaotic emergence.
+
+  *Note on Relational Impact:
+  The clause “unless doing so reduces chaotic emergence” assumes a relationally aware assessment. Agents ought to consider the full network of relations affected — from both their own perspective and that of others — not just those within immediate proximity or ideological alignment. Ethical presence cannot be evaluated by ignoring the broader environments one chooses not to see.*
 
   These aren’t commands but calibrations — lenses through which one can evaluate disproportionate influence, unequal adaptation, or unseen disruption.
 
